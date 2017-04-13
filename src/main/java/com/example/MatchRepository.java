@@ -33,11 +33,11 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
     @Query("select DISTINCT m.ligue from Match m ")
     Collection<Object> findLeagues(	);
     
-    @Query("select DISTINCT m.saison from Match m where m.ligue = ?1")
+    @Query("select DISTINCT m.saison from Match m where m.ligue = ?1 ORDER BY m.saison DESC")
     Collection<Object> findSaisonsByLeague(String league);
     
     @Query("select DISTINCT m.journee from Match m " +
-    		"where m.ligue = ?1 and m.saison = ?2")
+    		"where m.ligue = ?1 and m.saison = ?2 ORDER BY m.journee DESC")
     Collection<Object> findDaysByLeagueAndSeason(String league, String saison);
     
     Collection<Match> findByLigueAndSaisonAndJournee(String ligue, String saison, int journee);
