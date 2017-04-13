@@ -21,13 +21,12 @@ public class ProjectApplication {
 	}
 
 	@Bean
-	CommandLineRunner init(EquipeRepository accountRepository, MatchRepository matchsRepository) throws FileNotFoundException, IOException {
+	CommandLineRunner init(MatchRepository matchsRepository) throws FileNotFoundException, IOException {
 		
 		Map<String, List<Match>> matchs = new CsvReader().CsvReaderTest();
 		matchs.forEach((k,v)->{
-			Equipe equipe = accountRepository.save(new Equipe(k));
 			v.forEach((match)->{
-				matchsRepository.save(new Match(equipe, match.getNomEquipeHome(), match.getScoreHome(), match.getEquipeAway(), match.getScoreAway(), match.getResultat(), match.getJournee(),match.getLigue() ,match.getSaison()));
+				matchsRepository.save(new Match(match.getNomEquipeHome(), match.getScoreHome(), match.getEquipeAway(), match.getScoreAway(), match.getResultat(), match.getJournee(),match.getLigue() ,match.getSaison()));
 			});			
 		});
 		

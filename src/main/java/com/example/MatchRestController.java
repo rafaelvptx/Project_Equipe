@@ -18,18 +18,14 @@ class MatchRestController {
 
 	private final MatchRepository matchRepository;
 
-	private final EquipeRepository equipeRepository;
-
 	@Autowired
-	MatchRestController(MatchRepository matchRepository,
-			EquipeRepository equipeRepository) {
+	MatchRestController(MatchRepository matchRepository) {
 		this.matchRepository = matchRepository;
-		this.equipeRepository = equipeRepository;
 	}	
 
 	@RequestMapping(method = RequestMethod.GET, value = "/byJournee/{equipeHome}/{equipeAway}")
 	Match readMatchStatistique(@PathVariable String equipeHome,@PathVariable String equipeAway,  @RequestParam(value="journee") int journee) {
-		return (Match) this.matchRepository.findByEquipeHomeNomAndEquipeAwayAndJournee(equipeHome, equipeAway, journee).toArray()[0];
+		return (Match) this.matchRepository.findByNomEquipeHomeAndEquipeAwayAndJournee(equipeHome, equipeAway, journee).toArray()[0];
 	}
 
 	@RequestMapping(method = RequestMethod.GET, value ="/leagues")
@@ -78,7 +74,7 @@ class MatchRestController {
 
 	@RequestMapping(method = RequestMethod.GET, value = "/home/{equipe}")
 	Collection<Match> readMatchsHome(@PathVariable String equipe) {
-		return this.matchRepository.findByEquipeHomeNom(equipe);
+		return this.matchRepository.findByNomEquipeHome(equipe);
 	}
 
 	@RequestMapping(method = RequestMethod.GET, value = "/away/{equipe}")
@@ -88,7 +84,7 @@ class MatchRestController {
 
 	@RequestMapping(method = RequestMethod.GET, value = "/all/{equipe}")
 	Collection<Match> readMatchsAll(@PathVariable String equipe) {
-		return this.matchRepository.findByEquipeAwayOrEquipeHomeNom(equipe, equipe);
+		return this.matchRepository.findByEquipeAwayOrNomEquipeHome(equipe, equipe);
 	}
 
 

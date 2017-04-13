@@ -10,10 +10,6 @@ import javax.persistence.ManyToOne;
 @Entity
 public class Match {
 
-    @JsonIgnore
-    @ManyToOne
-    private Equipe equipeHome;
-
     @Id
     @GeneratedValue
     private Long id;
@@ -32,10 +28,9 @@ public class Match {
 	public Match() { // jpa only
     }
     
-	public Match(Equipe equipeHome, String nomEquipeHome, int scoreHome, String equipeAway, int scoreAway,
+	public Match(String nomEquipeHome, int scoreHome, String equipeAway, int scoreAway,
 			String resultat, int journee, String ligue, String saison) {
 		super();
-		this.equipeHome = equipeHome;
 		this.nomEquipeHome = nomEquipeHome;
 		this.scoreHome = scoreHome;
 		this.equipeAway = equipeAway;
@@ -46,8 +41,7 @@ public class Match {
 		this.saison = saison;
 	}
 	
-    public Match(Equipe equipeH,String nomEquipeHome, String equipeAdv, int scoreHome, int scoreAway, String resultat, int journee) {
-        this.equipeHome = equipeH;
+    public Match(String nomEquipeHome, String equipeAdv, int scoreHome, int scoreAway, String resultat, int journee) {
         this.nomEquipeHome = nomEquipeHome;
         this.equipeAway = equipeAdv;
         this.scoreHome = scoreHome;
@@ -117,14 +111,6 @@ public class Match {
         return id;
     }
 
-	public Equipe getEquipeHome() {
-		return equipeHome;
-	}
-
-	public void setEquipeHome(Equipe equipeHome) {
-		this.equipeHome = equipeHome;
-	}
-
 	public String getEquipeAway() {
 		return equipeAway;
 	}
@@ -158,7 +144,7 @@ public class Match {
 	}
 	
 	public String toString(){
-		return getEquipeHome().getNomEquipe() + " " + getEquipeAway() +" "+  getScoreHome() +" "+ getScoreAway() +" "+ getResultat() + 
+		return getNomEquipeHome() + " " + getEquipeAway() +" "+  getScoreHome() +" "+ getScoreAway() +" "+ getResultat() + 
 				" " + getChanceWinHome() + " " + getChanceWinAway() + " " + getJournee() + " " + getSaison();
 	}
     

@@ -6,10 +6,10 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
 public interface MatchRepository extends JpaRepository<Match, Long> {
-    Collection<Match> findByEquipeHomeNom(String nom);
+    Collection<Match> findByNomEquipeHome(String nom);
     Collection<Match> findByEquipeAway(String nom);
-    Collection<Match> findByEquipeAwayOrEquipeHomeNom(String nom, String nomAway);
-    Collection<Match> findByEquipeHomeNomAndEquipeAwayAndJournee(String nom, String nomAway, int journee);
+    Collection<Match> findByEquipeAwayOrNomEquipeHome(String nom, String nomAway);
+    Collection<Match> findByNomEquipeHomeAndEquipeAwayAndJournee(String nom, String nomAway, int journee);
 
     
     @Query("select m from Match m " +

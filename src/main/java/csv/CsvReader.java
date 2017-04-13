@@ -9,7 +9,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.example.Equipe;
 import com.example.Match;
 import com.opencsv.CSVReader;
 
@@ -30,7 +29,6 @@ public class CsvReader {
 					String[] separe = e.split(SEPARATOR);
 					
 						Match match = new Match();
-						match.setEquipeHome(new Equipe(separe[0]));
 						match.setNomEquipeHome(separe[0]);
 						match.setEquipeAway(separe[1]);
 						match.setScoreHome(Integer.parseInt(separe[2].split("--")[0]));
