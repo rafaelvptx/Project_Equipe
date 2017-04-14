@@ -42,43 +42,31 @@ public class ProjectApplication {
 
 		int journee = m.getJournee();
 		String teamHome = m.getNomEquipeHome();
-		//System.out.println(teamHome);
 		String teamAway = m.getEquipeAway();
-		//System.out.println(teamAway);
 		String saison = m.getSaison();
-		//System.out.println(saison);
 
 		//indiceSaison eqA
 		float pourPerfSaisonA = calculIndice(matchRepository.findByJourneeBefore(saison,journee, teamHome), teamHome);
-		//System.out.println("pourperfsaisonA:"+ pourPerfSaisonA);
 		//indiceLieu eqA
 		float pourPerfLieuA = calculIndice(matchRepository.findByJourneeBeforeHome(saison, journee, teamHome), teamHome);	
-		//System.out.println("pourPerfLieuA: "+pourPerfLieuA);
 		//indiceForme eqA
 		float pourPerfFormeA = calculIndice(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee-5,journee-1, teamHome), teamHome);
-		//System.out.println("pourPerfFormeA: "+pourPerfFormeA);
 
 		//IndiceSaison eqB
 		float pourPerfSaisonB = calculIndice(matchRepository.findByJourneeBefore(saison,journee, teamAway), teamAway);
-		//System.out.println("pourPerfSaisonB: "+pourPerfSaisonB);
 		//IndiceLieu eqB
 		float pourPerfLieuB = calculIndice(matchRepository.findByJourneeBeforeAway(saison, journee, teamAway), teamAway);
-		//System.out.println("pourPerfLieuB: "+pourPerfLieuB);
 		//indiceForme eqB
 		float pourPerfFormeB = calculIndice(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee-5,journee-1, teamAway), teamAway);
-		//System.out.println("pourPerfFormeB: "+pourPerfFormeB);
 		
-		
-		float indiceSaison = Math.min(((pourPerfSaisonA-pourPerfSaisonB)*10)+5, 10);
-		float indiceLieu = Math.min(((pourPerfLieuA-pourPerfLieuB)*10)+5, 10);
-		float indiceForme = Math.min(((pourPerfFormeA-pourPerfFormeB)*10)+5, 10);
+		float indiceSaison = Math.min(((pourPerfSaisonA-pourPerfSaisonB)*5)+5, 10);
+		float indiceLieu = Math.min(((pourPerfLieuA-pourPerfLieuB)*5)+5, 10);
+		float indiceForme = Math.min(((pourPerfFormeA-pourPerfFormeB)*5)+5, 10);
 
 		float chanceWinHome = (indiceSaison + 2 * indiceLieu + 3 * indiceForme)/6;
 		
 		m.setChanceWinHome(chanceWinHome * 10);
 		m.setChanceWinAway((10-chanceWinHome)*10);
-		
-		System.out.println("Match : " + m + " " + indiceSaison + "//" + indiceLieu + "//" + indiceForme);
 		
 	}
 	
@@ -97,8 +85,6 @@ public class ProjectApplication {
 			}
 			compteurPossible += 3;
 		}
-		//System.out.println("pts"+pts);
-		//System.out.println("compteurpossible"+compteurPossible);
 		
 		return (float) pts/compteurPossible;
 

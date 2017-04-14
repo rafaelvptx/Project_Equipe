@@ -18,7 +18,6 @@ public class CsvReader {
 	private final static String RESOURCES_CHEMIN = "src/main/resources/";
 	private final static String TEST_CSV = "test.csv";
 	
-	
 	public Map<String, List<Match>> CsvReaderTest() throws FileNotFoundException, IOException {
 		Map<String, List<Match>> cores = new HashMap<>();
 		File File_test = new File(RESOURCES_CHEMIN + TEST_CSV);
