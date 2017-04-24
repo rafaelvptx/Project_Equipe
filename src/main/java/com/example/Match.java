@@ -144,7 +144,4 @@ public class Match {
 		return getNomEquipeHome() + " " + getEquipeAway() +" "+  getScoreHome() +" "+ getScoreAway() +" "+ getResultat() + 
 				" " + getChanceWinHome() + " " + getChanceWinAway() + " " + getJournee() + " " + getSaison();
 	}
-    
-    
-
 }

@@ -15,7 +15,4 @@ public class Season {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	
-
 }
