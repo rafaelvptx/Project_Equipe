@@ -6,11 +6,18 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
 public interface MatchRepository extends JpaRepository<Match, Long> {
+	
+	/*
+	 * Méthodes en lien avec le modèle JPA interprete par hibernate comme des requetes SQL
+	 */
     Collection<Match> findByNomEquipeHome(String nom);
     Collection<Match> findByEquipeAway(String nom);
     Collection<Match> findByEquipeAwayOrNomEquipeHome(String nom, String nomAway);
     Collection<Match> findByNomEquipeHomeAndEquipeAwayAndJournee(String nom, String nomAway, int journee);
 
+    /*
+     * Utilisation de l'annotation @Query afin de créer des requetes de la base SQL un peu plus complexes
+     */
     
     @Query("select m from Match m " +
             "where ( m.saison = ?1 and m.journee between ?2 and ?3 and m.nomEquipeHome = ?4 ) "

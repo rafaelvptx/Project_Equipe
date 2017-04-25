@@ -65,8 +65,4 @@ public class Resultat {
 	public void setChanceWinAway(float chanceWinAway) {
 		this.chanceWinAway = chanceWinAway;
 	}
-    
-    
-    
-	
 }
