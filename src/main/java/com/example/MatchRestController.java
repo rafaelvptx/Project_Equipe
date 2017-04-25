@@ -54,12 +54,37 @@ class MatchRestController {
 		});
 		return days;
 	}
+	
+	@RequestMapping(method = RequestMethod.GET, value ="/{league}/{season}/equipes")
+	List<Team> readTeamsByLeagueAndSeason(@PathVariable String league,@PathVariable String season){
+		List<Team> teams = new ArrayList<>();
+		this.matchRepository.findEquipeHomeByLeagueAndSeason(league, season).forEach(t->{
+			teams.add(new Team((String) String.valueOf(t)));
+		});
+		return teams;
+	}
 
 
 	@RequestMapping(method = RequestMethod.GET, value = "/{league}/{season}/{journee}/matchs")
 	List<Resultat> readMatchsByJournees(@PathVariable String league, @PathVariable String season,@PathVariable int journee) {
 		List<Resultat> resultats = new ArrayList<>();
 		this.matchRepository.findByLigueAndSaisonAndJournee(league, season, journee).forEach(m->{
+			resultats.add(new Resultat(
+					(String) m.getNomEquipeHome(),
+					(String) m.getEquipeAway(),
+					(int) m.getScoreHome(),
+					(int) m.getScoreAway(),
+					(float) m.getChanceWinHome(),
+					(float) m.getChanceWinAway()));
+		});
+		
+		return resultats;
+	}
+	
+	@RequestMapping(method = RequestMethod.GET, value = "/{league}/{season}/{equipe}/matchsTeam")
+	List<Resultat> readMatchsByEquipes(@PathVariable String league, @PathVariable String season,@PathVariable String equipe) {
+		List<Resultat> resultats = new ArrayList<>();
+		this.matchRepository.findByLigueAndSaisonAndEquipe(league, season, equipe).forEach(m->{
 			resultats.add(new Resultat(
 					(String) m.getNomEquipeHome(),
 					(String) m.getEquipeAway(),
