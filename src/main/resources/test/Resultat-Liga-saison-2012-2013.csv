@@ -1,0 +1,380 @@
+;Celta Vigo;Espanyol ;1 -- 0;38;Liga;2012_2013
+;FC Séville;Valence ;4 -- 3;38;Liga;2012_2013
+;Grenade;Getafe;2 -- 0;38;Liga;2012_2013
+;La Corogne;Real Sociedad ;0 -- 1;38;Liga;2012_2013
+;Levante;Betis;1 -- 1;38;Liga;2012_2013
+;Mallorca;Valladolid;4 -- 2;38;Liga;2012_2013
+;Vallecano;Ath. Bilbao ;2 -- 2;38;Liga;2012_2013
+;Zaragosse;Atl. Madrid;1 -- 3;38;Liga;2012_2013
+;Barcelone;Malaga;4 -- 1;38;Liga;2012_2013
+;Real Madrid;Osasuna;4 -- 2;38;Liga;2012_2013
+;Ath. Bilbao ;Levante;0 -- 1;37;Liga;2012_2013
+;Atl. Madrid;Mallorca;0 -- 0;37;Liga;2012_2013
+;Betis;Zaragosse;4 -- 0;37;Liga;2012_2013
+;Espanyol ;Barcelone;0 -- 2;37;Liga;2012_2013
+;Getafe;Vallecano;1 -- 2;37;Liga;2012_2013
+;Malaga;La Corogne;3 -- 1;37;Liga;2012_2013
+;Osasuna;FC Séville;2 -- 1;37;Liga;2012_2013
+;Real Sociedad;Real Madrid;3 -- 3;37;Liga;2012_2013
+;Valence;Grenade;1 -- 0;37;Liga;2012_2013
+;Valladolid;Celta Vigo;0 -- 2;37;Liga;2012_2013
+;Mallorca;Betis;1 -- 0;36;Liga;2012_2013
+;Barcelone;Valladolid;2 -- 1;36;Liga;2012_2013
+;Zaragosse;Ath. Bilbao;1 -- 2;36;Liga;2012_2013
+;Real Madrid;Malaga ;6 -- 2;36;Liga;2012_2013
+;Celta Vigo;Atl. Madrid;1 -- 3;36;Liga;2012_2013
+;La Corogne;Espanyol;2 -- 0;36;Liga;2012_2013
+;Levante;Vallecano;2 -- 3;36;Liga;2012_2013
+;FC Séville ;Real Sociedad;1 -- 2;36;Liga;2012_2013
+;Grenade;Osasuna ;3 -- 0;36;Liga;2012_2013
+;Getafe;Valence;0 -- 1;36;Liga;2012_2013
+;Real Sociedad;Grenade;2 -- 2;35;Liga;2012_2013
+;Malaga;FC Séville;0 -- 0;35;Liga;2012_2013
+;Atl. Madrid;Barcelone;1 -- 2;35;Liga;2012_2013
+;Betis;Celta Vigo;1 -- 0;35;Liga;2012_2013
+;Vallecano;Valence;0 -- 4;35;Liga;2012_2013
+;Espanyol ;Real Madrid;1 -- 1;35;Liga;2012_2013
+;Osasuna;Getafe;1 -- 0;35;Liga;2012_2013
+;Valladolid;La Corogne;1 -- 0;35;Liga;2012_2013
+;Ath. Bilbao;Mallorca ;2 -- 1;35;Liga;2012_2013
+;Levante ;Zaragosse;0 -- 0;35;Liga;2012_2013
+;Getafe;Real Sociedad;2 -- 1;34;Liga;2012_2013
+;Barcelone;Betis;4 -- 2;34;Liga;2012_2013
+;FC Séville;Espanyol;3 -- 0;34;Liga;2012_2013
+;Zaragosse;Vallecano;3 -- 0;34;Liga;2012_2013
+;Mallorca;Levante;1 -- 1;34;Liga;2012_2013
+;La Corogne;Atl. Madrid;0 -- 0;34;Liga;2012_2013
+;Real Madrid;Valladolid;4 -- 3;34;Liga;2012_2013
+;Grenade;Malaga;1 -- 0;34;Liga;2012_2013
+;Valence;Osasuna ;4 -- 0;34;Liga;2012_2013
+;Celta Vigo;Ath. Bilbao;1 -- 1;34;Liga;2012_2013
+;Betis;La Corogne;1 -- 1;33;Liga;2012_2013
+;Real Sociedad;Valence;4 -- 2;33;Liga;2012_2013
+;Valladolid;FC Séville;1 -- 1;33;Liga;2012_2013
+;Malaga;Getafe;2 -- 1;33;Liga;2012_2013
+;Espanyol;Grenade;0 -- 1;33;Liga;2012_2013
+;Zaragosse;Mallorca;3 -- 2;33;Liga;2012_2013
+;Atl. Madrid;Real Madrid;1 -- 2;33;Liga;2012_2013
+;Ath. Bilbao;Barcelone;2 -- 2;33;Liga;2012_2013
+;Levante;Celta Vigo;0 -- 1;33;Liga;2012_2013
+;Vallecano;Osasuna;2 -- 2;33;Liga;2012_2013
+;Celta Vigo;Zaragosse;2 -- 1;32;Liga;2012_2013
+;FC Séville;Atl. Madrid;0 -- 1;32;Liga;2012_2013
+;Osasuna;Real Sociedad;0 -- 0;32;Liga;2012_2013
+;La Corogne;Ath. Bilbao ;1 -- 1;32;Liga;2012_2013
+;Getafe ;Espanyol;0 -- 2;32;Liga;2012_2013
+;Valence;Malaga;5 -- 1;32;Liga;2012_2013
+;Barcelone;Levante;1 -- 0;32;Liga;2012_2013
+;Real Madrid;Betis;3 -- 1;32;Liga;2012_2013
+;Grenade;Valladolid;1 -- 1;32;Liga;2012_2013
+;Mallorca;Vallecano;1 -- 1;32;Liga;2012_2013
+;Mallorca;Celta Vigo;1 -- 0;31;Liga;2012_2013
+;Ath. Bilbao;Real Madrid;0 -- 3;31;Liga;2012_2013
+;Zaragosse;Barcelone;0 -- 3;31;Liga;2012_2013
+;Atl. Madrid;Grenade;5 -- 0;31;Liga;2012_2013
+;Vallecano;Real Sociedad;0 -- 2;31;Liga;2012_2013
+;Malaga;Osasuna;1 -- 0;31;Liga;2012_2013
+;Espanyol ;Valence;3 -- 3;31;Liga;2012_2013
+;Levante;La Corogne;0 -- 4;31;Liga;2012_2013
+;Valladolid;Getafe ;2 -- 1;31;Liga;2012_2013
+;Betis;FC Séville ;3 -- 3;31;Liga;2012_2013
+;FC Séville ;Ath. Bilbao ;2 -- 1;30;Liga;2012_2013
+;Valence;Valladolid ;2 -- 1;30;Liga;2012_2013
+;Getafe;Atl. Madrid ;0 -- 0;30;Liga;2012_2013
+;Osasuna;Espanyol;0 -- 2;30;Liga;2012_2013
+;Celta Vigo;Vallecano;0 -- 2;30;Liga;2012_2013
+;Barcelone;Mallorca;5 -- 0;30;Liga;2012_2013
+;La Corogne;Zaragosse ;3 -- 2;30;Liga;2012_2013
+;Real Madrid;Levante;5 -- 1;30;Liga;2012_2013
+;Real Sociedad;Malaga;4 -- 2;30;Liga;2012_2013
+;Grenade ;Betis;1 -- 5;30;Liga;2012_2013
+;Betis;Getafe;0 -- 0;29;Liga;2012_2013
+;Ath. Bilbao ;Grenade;1 -- 0;29;Liga;2012_2013
+;Atl. Madrid;Valence;1 -- 1;29;Liga;2012_2013
+;Espanyol;Real Sociedad;2 -- 2;29;Liga;2012_2013
+;Mallorca;La Corogne;2 -- 3;29;Liga;2012_2013
+;Valladolid;Osasuna;1 -- 3;29;Liga;2012_2013
+;Levante;FC Séville;1 -- 0;29;Liga;2012_2013
+;Zaragosse;Real Madrid;1 -- 1;29;Liga;2012_2013
+;Celta Vigo;Barcelone;2 -- 2;29;Liga;2012_2013
+;Vallecano;Malaga;1 -- 3;29;Liga;2012_2013
+;Barcelone;Vallecano;3 -- 1;28;Liga;2012_2013
+;Grenade;Levante;1 -- 1;28;Liga;2012_2013
+;Osasuna;Atl. Madrid;0 -- 2;28;Liga;2012_2013
+;FC Séville;Zaragosse ;4 -- 0;28;Liga;2012_2013
+;Malaga;Espanyol;0 -- 2;28;Liga;2012_2013
+;Valence;Betis ;3 -- 0;28;Liga;2012_2013
+;Real Madrid;Mallorca;5 -- 2;28;Liga;2012_2013
+;Getafe;Ath. Bilbao;1 -- 0;28;Liga;2012_2013
+;Real Sociedad;Valladolid;4 -- 1;28;Liga;2012_2013
+;La Corogne;Celta Vigo ;3 -- 1;28;Liga;2012_2013
+;Zaragosse;Grenade;0 -- 0;27;Liga;2012_2013
+;Atl. Madrid;Real Sociedad;0 -- 1;27;Liga;2012_2013
+;Celta Vigo;Real Madrid;1 -- 2;27;Liga;2012_2013
+;Levante;Getafe;0 -- 0;27;Liga;2012_2013
+;Ath. Bilbao;Valence;1 -- 0;27;Liga;2012_2013
+;Mallorca ;FC Séville;2 -- 1;27;Liga;2012_2013
+;Barcelone;La Corogne;2 -- 0;27;Liga;2012_2013
+;Valladolid;Malaga;1 -- 1;27;Liga;2012_2013
+;Vallecano;Espanyol;2 -- 0;27;Liga;2012_2013
+;Betis;Osasuna ;2 -- 1;27;Liga;2012_2013
+;FC Séville;Celta Vigo;4 -- 1;26;Liga;2012_2013
+;Real Sociedad;Betis;3 -- 3;26;Liga;2012_2013
+;Malaga;Atl. Madrid;0 -- 0;26;Liga;2012_2013
+;Espanyol;Valladolid;0 -- 0;26;Liga;2012_2013
+;Grenade;Mallorca;1 -- 2;26;Liga;2012_2013
+;Valence;Levante;2 -- 2;26;Liga;2012_2013
+;Osasuna;Ath. Bilbao;0 -- 1;26;Liga;2012_2013
+;La Corogne ;Vallecano;0 -- 0;26;Liga;2012_2013
+;Real Madrid;Barcelone ;2 -- 1;26;Liga;2012_2013
+;Getafe ;Zaragosse ;2 -- 0;26;Liga;2012_2013
+;Levante;Osasuna;0 -- 2;25;Liga;2012_2013
+;Betis;Malaga ;3 -- 0;25;Liga;2012_2013
+;Atl. Madrid ;Espanyol;1 -- 0;25;Liga;2012_2013
+;Celta Vigo;Grenade;2 -- 1;25;Liga;2012_2013
+;Vallecano;Valladolid;1 -- 2;25;Liga;2012_2013
+;Barcelone;FC Séville;2 -- 1;25;Liga;2012_2013
+;La Corogne;Real Madrid ;1 -- 2;25;Liga;2012_2013
+;Zaragosse ;Valence;2 -- 2;25;Liga;2012_2013
+;Mallorca;Getafe;1 -- 3;25;Liga;2012_2013
+;Ath. Bilbao;Real Sociedad;1 -- 3;25;Liga;2012_2013
+;Espanyol;Betis;1 -- 0;24;Liga;2012_2013
+;Real Madrid ;Vallecano;2 -- 0;24;Liga;2012_2013
+;Valladolid;Atl. Madrid;0 -- 3;24;Liga;2012_2013
+;Valence ;Mallorca;2 -- 0;24;Liga;2012_2013
+;Real Sociedad;Levante ;1 -- 1;24;Liga;2012_2013
+;Osasuna;Zaragosse;1 -- 0;24;Liga;2012_2013
+;Grenade;Barcelone;1 -- 2;24;Liga;2012_2013
+;Malaga;Ath. Bilbao;1 -- 0;24;Liga;2012_2013
+;Getafe;Celta Vigo;3 -- 1;24;Liga;2012_2013
+;FC Séville;La Corogne;3 -- 1;24;Liga;2012_2013
+;Betis ;Valladolid ;0 -- 0;23;Liga;2012_2013
+;Vallecano;Atl. Madrid;2 -- 1;23;Liga;2012_2013
+;Ath. Bilbao;Espanyol;0 -- 4;23;Liga;2012_2013
+;Zaragosse ;Real Sociedad;1 -- 2;23;Liga;2012_2013
+;Barcelone;Getafe;6 -- 1;23;Liga;2012_2013
+;La Corogne ;Grenade;0 -- 3;23;Liga;2012_2013
+;Real Madrid ;FC Séville ;4 -- 1;23;Liga;2012_2013
+;Levante;Malaga;1 -- 2;23;Liga;2012_2013
+;Celta Vigo;Valence;0 -- 1;23;Liga;2012_2013
+;Mallorca;Osasuna;1 -- 1;23;Liga;2012_2013
+;Atl. Madrid;Betis;1 -- 0;22;Liga;2012_2013
+;Real Sociedad;Mallorca ;3 -- 0;22;Liga;2012_2013
+;Valence;Barcelone;1 -- 1;22;Liga;2012_2013
+;FC Séville ;Vallecano;2 -- 1;22;Liga;2012_2013
+;Malaga;Zaragosse ;1 -- 1;22;Liga;2012_2013
+;Grenade;Real Madrid;1 -- 0;22;Liga;2012_2013
+;Espanyol;Levante;3 -- 2;22;Liga;2012_2013
+;Getafe ;La Corogne ;3 -- 1;22;Liga;2012_2013
+;Osasuna;Celta Vigo;1 -- 0;22;Liga;2012_2013
+;Valladolid;Ath. Bilbao;2 -- 2;22;Liga;2012_2013
+;FC Séville;Grenade;3 -- 0;21;Liga;2012_2013
+;Ath. Bilbao;Atl. Madrid;3 -- 0;21;Liga;2012_2013
+;Mallorca;Malaga ;2 -- 3;21;Liga;2012_2013
+;Barcelone;Osasuna ;5 -- 1;21;Liga;2012_2013
+;Vallecano;Betis;3 -- 0;21;Liga;2012_2013
+;Real Madrid;Getafe;4 -- 0;21;Liga;2012_2013
+;La Corogne ;Valence;2 -- 3;21;Liga;2012_2013
+;Zaragosse ;Espanyol ;0 -- 0;21;Liga;2012_2013
+;Levante;Valladolid;2 -- 1;21;Liga;2012_2013
+;Celta Vigo ;Real Sociedad;1 -- 1;21;Liga;2012_2013
+;Betis;Ath. Bilbao;1 -- 1;20;Liga;2012_2013
+;Valence;Real Madrid;0 -- 5;20;Liga;2012_2013
+;Atl. Madrid;Levante;2 -- 0;20;Liga;2012_2013
+;Valladolid;Zaragosse;2 -- 0;20;Liga;2012_2013
+;Osasuna;La Corogne;2 -- 1;20;Liga;2012_2013
+;Malaga;Celta Vigo;1 -- 1;20;Liga;2012_2013
+;Getafe;FC Séville;1 -- 1;20;Liga;2012_2013
+;Real Sociedad;Barcelone ;3 -- 2;20;Liga;2012_2013
+;Grenade;Vallecano;2 -- 0;20;Liga;2012_2013
+;Espanyol;Mallorca ;3 -- 2;20;Liga;2012_2013
+;Getafe;Grenade;2 -- 2;19;Liga;2012_2013
+;Malaga;Barcelone;1 -- 3;19;Liga;2012_2013
+;Atl. Madrid;Zaragosse;2 -- 0;19;Liga;2012_2013
+;Real Sociedad;La Corogne ;1 -- 1;19;Liga;2012_2013
+;Betis;Levante;2 -- 0;19;Liga;2012_2013
+;Valence;FC Séville;2 -- 0;19;Liga;2012_2013
+;Osasuna;Real Madrid ;0 -- 0;19;Liga;2012_2013
+;Espanyol;Celta Vigo;1 -- 0;19;Liga;2012_2013
+;Valladolid;Mallorca;3 -- 1;19;Liga;2012_2013
+;Ath. Bilbao;Vallecano ;1 -- 2;19;Liga;2012_2013
+;Vallecano;Getafe ;3 -- 1;18;Liga;2012_2013
+;Mallorca;Atl. Madrid;1 -- 1;18;Liga;2012_2013
+;Barcelone;Espanyol;4 -- 0;18;Liga;2012_2013
+;Real Madrid ;Real Sociedad ;4 -- 3;18;Liga;2012_2013
+;Celta Vigo;Valladolid;3 -- 1;18;Liga;2012_2013
+;FC Séville;Osasuna;1 -- 0;18;Liga;2012_2013
+;La Corogne;Malaga;1 -- 0;18;Liga;2012_2013
+;Grenade ;Valence;1 -- 2;18;Liga;2012_2013
+;Levante;Ath. Bilbao ;3 -- 1;18;Liga;2012_2013
+;Zaragosse ;Betis;1 -- 2;18;Liga;2012_2013
+;Ath. Bilbao;Zaragosse;0 -- 2;17;Liga;2012_2013
+;Malaga;Real Madrid;3 -- 2;17;Liga;2012_2013
+;Osasuna;Grenade;1 -- 2;17;Liga;2012_2013
+;Valladolid;Barcelone;1 -- 3;17;Liga;2012_2013
+;Betis;Mallorca;1 -- 2;17;Liga;2012_2013
+;Atl. Madrid ;Celta Vigo;1 -- 0;17;Liga;2012_2013
+;Valence;Getafe;4 -- 2;17;Liga;2012_2013
+;Espanyol;La Corogne;2 -- 0;17;Liga;2012_2013
+;Real Sociedad;FC Séville ;2 -- 1;17;Liga;2012_2013
+;Vallecano;Levante;3 -- 0;17;Liga;2012_2013
+;Celta Vigo;Betis;0 -- 1;16;Liga;2012_2013
+;La Corogne;Valladolid;0 -- 0;16;Liga;2012_2013
+;Barcelone;Atl. Madrid;4 -- 1;16;Liga;2012_2013
+;Real Madrid;Espanyol;2 -- 2;16;Liga;2012_2013
+;Valence;Vallecano;0 -- 1;16;Liga;2012_2013
+;Zaragosse;Levante ;0 -- 1;16;Liga;2012_2013
+;FC Séville ;Malaga;0 -- 2;16;Liga;2012_2013
+;Grenade;Real Sociedad;0 -- 0;16;Liga;2012_2013
+;Mallorca;Ath. Bilbao;0 -- 1;16;Liga;2012_2013
+;Getafe;Osasuna ;1 -- 1;16;Liga;2012_2013
+;Vallecano;Zaragosse;0 -- 2;15;Liga;2012_2013
+;Betis;Barcelone;1 -- 2;15;Liga;2012_2013
+;Atl. Madrid;La Corogne;6 -- 0;15;Liga;2012_2013
+;Ath. Bilbao;Celta Vigo;1 -- 0;15;Liga;2012_2013
+;Levante;Mallorca;4 -- 0;15;Liga;2012_2013
+;Osasuna;Valence;0 -- 1;15;Liga;2012_2013
+;Valladolid;Real Madrid;2 -- 3;15;Liga;2012_2013
+;Malaga;Grenade;4 -- 0;15;Liga;2012_2013
+;Real Sociedad;Getafe;1 -- 1;15;Liga;2012_2013
+;Espanyol;FC Séville ;2 -- 2;15;Liga;2012_2013
+;FC Séville ;Valladolid;1 -- 2;14;Liga;2012_2013
+;Mallorca;Zaragosse ;1 -- 1;14;Liga;2012_2013
+;Celta Vigo;Levante;1 -- 1;14;Liga;2012_2013
+;La Corogne;Betis;2 -- 3;14;Liga;2012_2013
+;Grenade;Espanyol;0 -- 0;14;Liga;2012_2013
+;Real Madrid;Atl. Madrid;2 -- 0;14;Liga;2012_2013
+;Barcelone;Ath. Bilbao;5 -- 1;14;Liga;2012_2013
+;Valence ;Real Sociedad;2 -- 5;14;Liga;2012_2013
+;Getafe ;Malaga;1 -- 0;14;Liga;2012_2013
+;Osasuna;Vallecano;1 -- 0;14;Liga;2012_2013
+;Zaragosse;Celta Vigo;0 -- 1;13;Liga;2012_2013
+;Levante;Barcelone;0 -- 4;13;Liga;2012_2013
+;Atl. Madrid;FC Séville ;4 -- 0;13;Liga;2012_2013
+;Ath. Bilbao;La Corogne;1 -- 1;13;Liga;2012_2013
+;Espanyol;Getafe;0 -- 2;13;Liga;2012_2013
+;Betis;Real Madrid;1 -- 0;13;Liga;2012_2013
+;Malaga;Valence ;4 -- 0;13;Liga;2012_2013
+;Valladolid;Grenade;1 -- 0;13;Liga;2012_2013
+;Vallecano;Mallorca;2 -- 0;13;Liga;2012_2013
+;Real Sociedad;Osasuna;0 -- 0;13;Liga;2012_2013
+;Real Sociedad;Vallecano;4 -- 0;12;Liga;2012_2013
+;FC Séville;Betis ;5 -- 1;12;Liga;2012_2013
+;Grenade;Atl. Madrid ;0 -- 1;12;Liga;2012_2013
+;Getafe;Valladolid;2 -- 1;12;Liga;2012_2013
+;Celta Vigo;Mallorca;1 -- 1;12;Liga;2012_2013
+;La Corogne ;Levante ;0 -- 2;12;Liga;2012_2013
+;Real Madrid;Ath. Bilbao;5 -- 1;12;Liga;2012_2013
+;Barcelone;Zaragosse;3 -- 1;12;Liga;2012_2013
+;Valence;Espanyol ;2 -- 1;12;Liga;2012_2013
+;Osasuna;Malaga;0 -- 0;12;Liga;2012_2013
+;Levante;Real Madrid;1 -- 2;11;Liga;2012_2013
+;Atl. Madrid;Getafe;2 -- 0;11;Liga;2012_2013
+;Mallorca;Barcelone;2 -- 4;11;Liga;2012_2013
+;Ath. Bilbao ;FC Séville;2 -- 1;11;Liga;2012_2013
+;Valladolid;Valence ;1 -- 1;11;Liga;2012_2013
+;Malaga;Real Sociedad;1 -- 2;11;Liga;2012_2013
+;Zaragosse;La Corogne ;5 -- 3;11;Liga;2012_2013
+;Espanyol;Osasuna;0 -- 3;11;Liga;2012_2013
+;Vallecano;Celta Vigo ;3 -- 2;11;Liga;2012_2013
+;Betis;Grenade;1 -- 2;11;Liga;2012_2013
+;Getafe;Betis;2 -- 4;10;Liga;2012_2013
+;FC Séville;Levante;0 -- 0;10;Liga;2012_2013
+;Grenade;Ath. Bilbao;1 -- 2;10;Liga;2012_2013
+;Osasuna ;Valladolid;0 -- 1;10;Liga;2012_2013
+;La Corogne;Mallorca;1 -- 0;10;Liga;2012_2013
+;Real Sociedad;Espanyol;0 -- 1;10;Liga;2012_2013
+;Valence ;Atl. Madrid;2 -- 0;10;Liga;2012_2013
+;Real Madrid;Zaragosse;4 -- 0;10;Liga;2012_2013
+;Barcelone;Celta Vigo;3 -- 1;10;Liga;2012_2013
+;Malaga;Vallecano;1 -- 2;10;Liga;2012_2013
+;Valladolid;Real Sociedad;2 -- 2;9;Liga;2012_2013
+;Mallorca;Real Madrid;0 -- 5;9;Liga;2012_2013
+;Atl. Madrid;Osasuna;3 -- 1;9;Liga;2012_2013
+;Ath. Bilbao;Getafe;1 -- 2;9;Liga;2012_2013
+;Levante;Grenade;3 -- 1;9;Liga;2012_2013
+;Zaragosse;FC Séville;2 -- 1;9;Liga;2012_2013
+;Vallecano;Barcelone;0 -- 5;9;Liga;2012_2013
+;Celta Vigo ;La Corogne;1 -- 1;9;Liga;2012_2013
+;Betis;Valence;1 -- 0;9;Liga;2012_2013
+;Espanyol;Malaga;0 -- 0;9;Liga;2012_2013
+;FC Séville;Mallorca;3 -- 2;8;Liga;2012_2013
+;Real Sociedad;Atl. Madrid;0 -- 1;8;Liga;2012_2013
+;Osasuna;Betis;0 -- 0;8;Liga;2012_2013
+;Grenade ;Zaragosse;1 -- 2;8;Liga;2012_2013
+;Espanyol ;Vallecano ;3 -- 2;8;Liga;2012_2013
+;Getafe;Levante;0 -- 1;8;Liga;2012_2013
+;La Corogne;Barcelone ;4 -- 5;8;Liga;2012_2013
+;Valence;Ath. Bilbao ;3 -- 2;8;Liga;2012_2013
+;Real Madrid;Celta Vigo;2 -- 0;8;Liga;2012_2013
+;Malaga;Valladolid ;2 -- 1;8;Liga;2012_2013
+;Atl. Madrid;Malaga;2 -- 1;7;Liga;2012_2013
+;Barcelone;Real Madrid;2 -- 2;7;Liga;2012_2013
+;Ath. Bilbao;Osasuna;1 -- 0;7;Liga;2012_2013
+;Mallorca ;Grenade ;1 -- 2;7;Liga;2012_2013
+;Levante;Valence;1 -- 0;7;Liga;2012_2013
+;Betis ;Real Sociedad;2 -- 0;7;Liga;2012_2013
+;Valladolid;Espanyol ;1 -- 1;7;Liga;2012_2013
+;Zaragosse ;Getafe ;0 -- 1;7;Liga;2012_2013
+;Vallecano;La Corogne;2 -- 1;7;Liga;2012_2013
+;Celta Vigo;FC Séville;2 -- 0;7;Liga;2012_2013
+;Getafe;Mallorca ;1 -- 0;6;Liga;2012_2013
+;Espanyol;Atl. Madrid;0 -- 1;6;Liga;2012_2013
+;Real Madrid;La Corogne;5 -- 1;6;Liga;2012_2013
+;Osasuna;Levante;4 -- 0;6;Liga;2012_2013
+;Valladolid;Vallecano;6 -- 1;6;Liga;2012_2013
+;Grenade;Celta Vigo;2 -- 1;6;Liga;2012_2013
+;FC Séville ;Barcelone;2 -- 3;6;Liga;2012_2013
+;Real Sociedad;Ath. Bilbao ;2 -- 0;6;Liga;2012_2013
+;Malaga;Betis ;4 -- 0;6;Liga;2012_2013
+;Valence ;Zaragosse;2 -- 0;6;Liga;2012_2013
+;La Corogne;FC Séville;0 -- 2;5;Liga;2012_2013
+;Vallecano ;Real Madrid;0 -- 2;5;Liga;2012_2013
+;Ath. Bilbao;Malaga;0 -- 0;5;Liga;2012_2013
+;Atl. Madrid;Valladolid;2 -- 1;5;Liga;2012_2013
+;Levante;Real Sociedad;2 -- 1;5;Liga;2012_2013
+;Mallorca;Valence;2 -- 0;5;Liga;2012_2013
+;Barcelone;Grenade;2 -- 0;5;Liga;2012_2013
+;Betis;Espanyol ;1 -- 0;5;Liga;2012_2013
+;Celta Vigo;Getafe ;2 -- 1;5;Liga;2012_2013
+;Zaragosse;Osasuna;3 -- 1;5;Liga;2012_2013
+;Valladolid;Betis;0 -- 1;4;Liga;2012_2013
+;Atl. Madrid;Vallecano;4 -- 3;4;Liga;2012_2013
+;Real Sociedad;Zaragosse;2 -- 0;4;Liga;2012_2013
+;Osasuna ;Mallorca ;1 -- 1;4;Liga;2012_2013
+;Grenade;La Corogne;1 -- 1;4;Liga;2012_2013
+;Espanyol ;Ath. Bilbao;3 -- 3;4;Liga;2012_2013
+;FC Séville;Real Madrid;1 -- 0;4;Liga;2012_2013
+;Getafe;Barcelone;1 -- 4;4;Liga;2012_2013
+;Valence;Celta Vigo;2 -- 1;4;Liga;2012_2013
+;Malaga ;Levante;3 -- 1;4;Liga;2012_2013
+;Barcelone;Valence;1 -- 0;3;Liga;2012_2013
+;Real Madrid;Grenade ;3 -- 0;3;Liga;2012_2013
+;Levante ;Espanyol;3 -- 2;3;Liga;2012_2013
+;Ath. Bilbao;Valladolid;2 -- 0;3;Liga;2012_2013
+;Vallecano ;FC Séville;0 -- 0;3;Liga;2012_2013
+;Betis ;Atl. Madrid;2 -- 4;3;Liga;2012_2013
+;Mallorca;Real Sociedad;1 -- 0;3;Liga;2012_2013
+;La Corogne;Getafe;1 -- 1;3;Liga;2012_2013
+;Zaragosse;Malaga;0 -- 1;3;Liga;2012_2013
+;Celta Vigo;Osasuna ;2 -- 0;3;Liga;2012_2013
+;Atl. Madrid;Ath. Bilbao;4 -- 0;2;Liga;2012_2013
+;Valladolid;Levante ;2 -- 0;2;Liga;2012_2013
+;Valence ;La Corogne;3 -- 3;2;Liga;2012_2013
+;Getafe;Real Madrid ;2 -- 1;2;Liga;2012_2013
+;Grenade;FC Séville ;1 -- 1;2;Liga;2012_2013
+;Osasuna ;Barcelone;1 -- 2;2;Liga;2012_2013
+;Malaga ;Mallorca;1 -- 1;2;Liga;2012_2013
+;Betis;Vallecano;1 -- 2;2;Liga;2012_2013
+;Espanyol ;Zaragosse;1 -- 2;2;Liga;2012_2013
+;Real Sociedad;Celta Vigo;2 -- 1;2;Liga;2012_2013
+;Zaragosse;Valladolid;0 -- 1;1;Liga;2012_2013
+;Vallecano;Grenade;1 -- 0;1;Liga;2012_2013
+;La Corogne;Osasuna;2 -- 0;1;Liga;2012_2013
+;Levante;Atl. Madrid;1 -- 1;1;Liga;2012_2013
+;Barcelone;Real Sociedad;5 -- 1;1;Liga;2012_2013
+;Ath. Bilbao;Betis;3 -- 5;1;Liga;2012_2013
+;Real Madrid;Valence;1 -- 1;1;Liga;2012_2013
+;Mallorca;Espanyol;2 -- 1;1;Liga;2012_2013
+;FC Séville;Getafe;2 -- 1;1;Liga;2012_2013
+;Celta Vigo;Malaga;0 -- 1;1;Liga;2012_2013

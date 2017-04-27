@@ -10,7 +10,7 @@ public class Resultat {
 	private float chanceWinAway;
 
     public Resultat(String nomEquipeHome, String equipeAdv, int scoreHome, int scoreAway, float chanceWinHome, float chanceWinAway) {
-        this.teamHome = nomEquipeHome;
+    	this.teamHome = nomEquipeHome;
         this.teamAway = equipeAdv;
         this.scoreHome = scoreHome;
         this.scoreAway = scoreAway;
@@ -18,20 +18,20 @@ public class Resultat {
         this.chanceWinAway = chanceWinAway;
     }
 
-	public String getNomEquipeHome() {
+	public String getTeamHome() {
 		return teamHome;
 	}
 
-	public void setNomEquipeHome(String nomEquipeHome) {
-		this.teamHome = nomEquipeHome;
+	public void setTeamHome(String teamHome) {
+		this.teamHome = teamHome;
 	}
 
-	public String getEquipeAway() {
+	public String getTeamAway() {
 		return teamAway;
 	}
 
-	public void setEquipeAway(String equipeAway) {
-		this.teamAway = equipeAway;
+	public void setTeamAway(String teamAway) {
+		this.teamAway = teamAway;
 	}
 
 	public int getScoreHome() {

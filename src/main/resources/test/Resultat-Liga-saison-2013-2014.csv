@@ -1,0 +1,380 @@
+;FC Séville;Elche;3 -- 1;38;Liga;2013_2014
+;Almeria;Ath. Bilbao;0 -- 0;38;Liga;2013_2014
+;Osasuna;Betis;2 -- 1;38;Liga;2013_2014
+;Valladolid;Grenade;0 -- 1;38;Liga;2013_2014
+;Vallecano;Getafe;1 -- 2;38;Liga;2013_2014
+;Real Sociedad;Villarreal;1 -- 2;38;Liga;2013_2014
+;Valence;Celta Vigo;2 -- 1;38;Liga;2013_2014
+;Barcelone;Atl. Madrid;1 -- 1;38;Liga;2013_2014
+;Real Madrid;Espanyol;3 -- 1;38;Liga;2013_2014
+;Malaga;Levante ;1 -- 0;38;Liga;2013_2014
+;Atl. Madrid;Malaga ;1 -- 1;37;Liga;2013_2014
+;Betis;Valladolid;4 -- 3;37;Liga;2013_2014
+;Celta Vigo;Real Madrid;2 -- 0;37;Liga;2013_2014
+;Elche;Barcelone;0 -- 0;37;Liga;2013_2014
+;Espanyol;Osasuna;1 -- 1;37;Liga;2013_2014
+;Getafe;FC Séville;1 -- 0;37;Liga;2013_2014
+;Grenade ;Almeria;0 -- 2;37;Liga;2013_2014
+;Ath. Bilbao;Real Sociedad;1 -- 1;37;Liga;2013_2014
+;Levante ;Valence;2 -- 0;37;Liga;2013_2014
+;Villarreal;Vallecano ;4 -- 0;37;Liga;2013_2014
+;Real Sociedad ;Grenade ;1 -- 1;36;Liga;2013_2014
+;Real Madrid;Valence;2 -- 2;36;Liga;2013_2014
+;FC Séville;Villarreal;0 -- 0;36;Liga;2013_2014
+;Levante;Atl. Madrid;2 -- 0;36;Liga;2013_2014
+;Almeria ;Betis;3 -- 2;36;Liga;2013_2014
+;Valladolid;Espanyol ;1 -- 0;36;Liga;2013_2014
+;Osasuna;Celta Vigo;0 -- 2;36;Liga;2013_2014
+;Malaga;Elche ;0 -- 1;36;Liga;2013_2014
+;Barcelone;Getafe;2 -- 2;36;Liga;2013_2014
+;Vallecano;Ath. Bilbao;0 -- 3;36;Liga;2013_2014
+;Celta Vigo;Valladolid;4 -- 1;35;Liga;2013_2014
+;Villarreal;Barcelone;2 -- 3;35;Liga;2013_2014
+;Ath. Bilbao;FC Séville ;3 -- 1;35;Liga;2013_2014
+;Valence;Atl. Madrid ;0 -- 1;35;Liga;2013_2014
+;Espanyol ;Almeria;1 -- 2;35;Liga;2013_2014
+;Betis;Real Sociedad;0 -- 1;35;Liga;2013_2014
+;Real Madrid;Osasuna;4 -- 0;35;Liga;2013_2014
+;Getafe ;Malaga ;1 -- 0;35;Liga;2013_2014
+;Grenade ;Vallecano;0 -- 3;35;Liga;2013_2014
+;Elche;Levante;1 -- 1;35;Liga;2013_2014
+;Malaga ;Villarreal;2 -- 0;34;Liga;2013_2014
+;Barcelone;Ath. Bilbao;2 -- 1;34;Liga;2013_2014
+;Valladolid;Real Madrid;1 -- 1;34;Liga;2013_2014
+;FC Séville;Grenade;4 -- 0;34;Liga;2013_2014
+;Vallecano;Betis;3 -- 1;34;Liga;2013_2014
+;Almeria;Celta Vigo;2 -- 4;34;Liga;2013_2014
+;Real Sociedad;Espanyol;2 -- 1;34;Liga;2013_2014
+;Levante;Getafe ;0 -- 0;34;Liga;2013_2014
+;Osasuna;Valence;1 -- 1;34;Liga;2013_2014
+;Atl. Madrid;Elche ;2 -- 0;34;Liga;2013_2014
+;Ath. Bilbao;Malaga;3 -- 0;33;Liga;2013_2014
+;Espanyol;Vallecano;2 -- 2;33;Liga;2013_2014
+;Getafe ;Atl. Madrid;0 -- 2;33;Liga;2013_2014
+;Valence ;Elche;2 -- 1;33;Liga;2013_2014
+;Betis ;FC Séville;0 -- 2;33;Liga;2013_2014
+;Real Madrid;Almeria;4 -- 0;33;Liga;2013_2014
+;Grenade;Barcelone;1 -- 0;33;Liga;2013_2014
+;Villarreal;Levante;1 -- 0;33;Liga;2013_2014
+;Celta Vigo ;Real Sociedad;2 -- 2;33;Liga;2013_2014
+;Osasuna;Valladolid;0 -- 0;33;Liga;2013_2014
+;Levante ;Ath. Bilbao;1 -- 2;32;Liga;2013_2014
+;Valladolid;Valence;0 -- 0;32;Liga;2013_2014
+;FC Séville;Espanyol;4 -- 1;32;Liga;2013_2014
+;Elche;Getafe;1 -- 0;32;Liga;2013_2014
+;Malaga;Grenade;4 -- 1;32;Liga;2013_2014
+;Vallecano ;Celta Vigo;3 -- 0;32;Liga;2013_2014
+;Real Sociedad;Real Madrid;0 -- 4;32;Liga;2013_2014
+;Barcelone;Betis;3 -- 1;32;Liga;2013_2014
+;Atl. Madrid;Villarreal;1 -- 0;32;Liga;2013_2014
+;Almeria ;Osasuna;1 -- 2;32;Liga;2013_2014
+;Betis;Malaga;1 -- 2;31;Liga;2013_2014
+;Grenade;Levante;0 -- 2;31;Liga;2013_2014
+;Valence ;Getafe;1 -- 3;31;Liga;2013_2014
+;Villarreal;Elche;1 -- 1;31;Liga;2013_2014
+;Osasuna;Real Sociedad;1 -- 1;31;Liga;2013_2014
+;Valladolid;Almeria ;1 -- 0;31;Liga;2013_2014
+;Real Madrid;Vallecano;5 -- 0;31;Liga;2013_2014
+;Ath. Bilbao ;Atl. Madrid;1 -- 2;31;Liga;2013_2014
+;Celta Vigo;FC Séville;1 -- 0;31;Liga;2013_2014
+;Espanyol ;Barcelone;0 -- 1;31;Liga;2013_2014
+;Almeria;Valence;2 -- 2;30;Liga;2013_2014
+;Levante;Betis;1 -- 3;30;Liga;2013_2014
+;Getafe;Villarreal;0 -- 1;30;Liga;2013_2014
+;Real Sociedad;Valladolid;1 -- 0;30;Liga;2013_2014
+;Atl. Madrid;Grenade;1 -- 0;30;Liga;2013_2014
+;FC Séville;Real Madrid;2 -- 1;30;Liga;2013_2014
+;Barcelone;Celta Vigo;3 -- 0;30;Liga;2013_2014
+;Vallecano;Osasuna;1 -- 0;30;Liga;2013_2014
+;Elche;Ath. Bilbao;0 -- 0;30;Liga;2013_2014
+;Malaga ;Espanyol;1 -- 2;30;Liga;2013_2014
+;Almeria;Real Sociedad;4 -- 3;29;Liga;2013_2014
+;Real Madrid ;Barcelone;3 -- 4;29;Liga;2013_2014
+;Valence;Villarreal;2 -- 1;29;Liga;2013_2014
+;Betis ;Atl. Madrid;0 -- 2;29;Liga;2013_2014
+;Osasuna;FC Séville;1 -- 2;29;Liga;2013_2014
+;Ath. Bilbao;Getafe;1 -- 0;29;Liga;2013_2014
+;Valladolid;Vallecano;1 -- 1;29;Liga;2013_2014
+;Espanyol;Levante ;0 -- 0;29;Liga;2013_2014
+;Grenade;Elche ;1 -- 0;29;Liga;2013_2014
+;Celta Vigo;Malaga ;0 -- 2;29;Liga;2013_2014
+;Villarreal ;Ath. Bilbao;1 -- 1;28;Liga;2013_2014
+;Real Sociedad;Valence;1 -- 0;28;Liga;2013_2014
+;FC Séville;Valladolid;4 -- 1;28;Liga;2013_2014
+;Barcelone;Osasuna;7 -- 0;28;Liga;2013_2014
+;Elche;Betis;0 -- 0;28;Liga;2013_2014
+;Atl. Madrid;Espanyol;1 -- 0;28;Liga;2013_2014
+;Malaga;Real Madrid;0 -- 1;28;Liga;2013_2014
+;Vallecano;Almeria;3 -- 1;28;Liga;2013_2014
+;Levante;Celta Vigo;0 -- 1;28;Liga;2013_2014
+;Getafe ;Grenade ;3 -- 3;28;Liga;2013_2014
+;Real Sociedad;Vallecano;2 -- 3;27;Liga;2013_2014
+;Osasuna;Malaga ;0 -- 2;27;Liga;2013_2014
+;Valence;Ath. Bilbao;1 -- 1;27;Liga;2013_2014
+;Real Madrid;Levante ;3 -- 0;27;Liga;2013_2014
+;Almeria;FC Séville;1 -- 3;27;Liga;2013_2014
+;Espanyol;Elche;3 -- 1;27;Liga;2013_2014
+;Grenade;Villarreal;2 -- 0;27;Liga;2013_2014
+;Celta Vigo;Atl. Madrid;0 -- 2;27;Liga;2013_2014
+;Betis;Getafe;2 -- 0;27;Liga;2013_2014
+;Valladolid;Barcelone;1 -- 0;27;Liga;2013_2014
+;Barcelone;Almeria;4 -- 1;26;Liga;2013_2014
+;Vallecano;Valence ;1 -- 0;26;Liga;2013_2014
+;FC Séville;Real Sociedad;1 -- 0;26;Liga;2013_2014
+;Atl. Madrid;Real Madrid;2 -- 2;26;Liga;2013_2014
+;Villarreal ;Betis;1 -- 1;26;Liga;2013_2014
+;Elche;Celta Vigo;1 -- 0;26;Liga;2013_2014
+;Getafe;Espanyol;0 -- 0;26;Liga;2013_2014
+;Levante ;Osasuna;2 -- 0;26;Liga;2013_2014
+;Malaga;Valladolid;1 -- 1;26;Liga;2013_2014
+;Ath. Bilbao;Grenade ;4 -- 0;26;Liga;2013_2014
+;Espanyol;Villarreal;1 -- 2;25;Liga;2013_2014
+;Osasuna;Atl. Madrid;3 -- 0;25;Liga;2013_2014
+;Valence;Grenade;2 -- 1;25;Liga;2013_2014
+;Betis ;Ath. Bilbao;0 -- 2;25;Liga;2013_2014
+;Vallecano;FC Séville ;0 -- 1;25;Liga;2013_2014
+;Almeria;Malaga;0 -- 0;25;Liga;2013_2014
+;Real Sociedad;Barcelone;3 -- 1;25;Liga;2013_2014
+;Celta Vigo;Getafe ;1 -- 1;25;Liga;2013_2014
+;Real Madrid;Elche;3 -- 0;25;Liga;2013_2014
+;Valladolid;Levante;1 -- 1;25;Liga;2013_2014
+;Malaga;Real Sociedad;0 -- 1;24;Liga;2013_2014
+;FC Séville ;Valence ;0 -- 0;24;Liga;2013_2014
+;Ath. Bilbao ;Espanyol;1 -- 2;24;Liga;2013_2014
+;Getafe;Real Madrid;0 -- 3;24;Liga;2013_2014
+;Grenade ;Betis ;1 -- 0;24;Liga;2013_2014
+;Villarreal;Celta Vigo;0 -- 2;24;Liga;2013_2014
+;Barcelone;Vallecano;6 -- 0;24;Liga;2013_2014
+;Levante;Almeria;1 -- 0;24;Liga;2013_2014
+;Atl. Madrid;Valladolid;3 -- 0;24;Liga;2013_2014
+;Elche;Osasuna;0 -- 0;24;Liga;2013_2014
+;Celta Vigo;Ath. Bilbao;0 -- 0;23;Liga;2013_2014
+;FC Séville;Barcelone;1 -- 4;23;Liga;2013_2014
+;Real Sociedad;Levante;0 -- 0;23;Liga;2013_2014
+;Valladolid;Elche;2 -- 2;23;Liga;2013_2014
+;Osasuna;Getafe;2 -- 0;23;Liga;2013_2014
+;Almeria;Atl. Madrid ;2 -- 0;23;Liga;2013_2014
+;Real Madrid;Villarreal;4 -- 2;23;Liga;2013_2014
+;Vallecano;Malaga ;4 -- 1;23;Liga;2013_2014
+;Valence;Betis;5 -- 0;23;Liga;2013_2014
+;Espanyol ;Grenade;1 -- 0;23;Liga;2013_2014
+;Villarreal;Osasuna;3 -- 1;22;Liga;2013_2014
+;Ath. Bilbao;Real Madrid ;1 -- 1;22;Liga;2013_2014
+;Atl. Madrid;Real Sociedad;4 -- 0;22;Liga;2013_2014
+;Betis;Espanyol;2 -- 0;22;Liga;2013_2014
+;Elche ;Almeria;1 -- 0;22;Liga;2013_2014
+;Malaga;FC Séville;3 -- 2;22;Liga;2013_2014
+;Getafe;Valladolid;0 -- 0;22;Liga;2013_2014
+;Levante;Vallecano;0 -- 0;22;Liga;2013_2014
+;Barcelone ;Valence;2 -- 3;22;Liga;2013_2014
+;Grenade;Celta Vigo;1 -- 2;22;Liga;2013_2014
+;Real Sociedad;Elche;4 -- 0;21;Liga;2013_2014
+;Barcelone;Malaga;3 -- 0;21;Liga;2013_2014
+;Vallecano;Atl. Madrid;2 -- 4;21;Liga;2013_2014
+;Osasuna ;Ath. Bilbao;1 -- 5;21;Liga;2013_2014
+;Almeria;Getafe;1 -- 0;21;Liga;2013_2014
+;FC Séville ;Levante ;2 -- 3;21;Liga;2013_2014
+;Valence;Espanyol;2 -- 2;21;Liga;2013_2014
+;Valladolid;Villarreal;1 -- 0;21;Liga;2013_2014
+;Real Madrid;Grenade;2 -- 0;21;Liga;2013_2014
+;Celta Vigo;Betis ;4 -- 2;21;Liga;2013_2014
+;Ath. Bilbao;Valladolid;4 -- 2;20;Liga;2013_2014
+;Atl. Madrid;FC Séville ;1 -- 1;20;Liga;2013_2014
+;Levante;Barcelone;1 -- 1;20;Liga;2013_2014
+;Villarreal;Almeria;2 -- 0;20;Liga;2013_2014
+;Getafe ;Real Sociedad;2 -- 2;20;Liga;2013_2014
+;Espanyol;Celta Vigo;1 -- 0;20;Liga;2013_2014
+;Grenade;Osasuna;0 -- 0;20;Liga;2013_2014
+;Elche;Vallecano ;2 -- 0;20;Liga;2013_2014
+;Betis;Real Madrid;0 -- 5;20;Liga;2013_2014
+;Malaga;Valence;0 -- 0;20;Liga;2013_2014
+;Villarreal;Real Sociedad;5 -- 1;19;Liga;2013_2014
+;Levante;Malaga;1 -- 0;19;Liga;2013_2014
+;Espanyol;Real Madrid;0 -- 1;19;Liga;2013_2014
+;Betis ;Osasuna ;1 -- 2;19;Liga;2013_2014
+;Getafe;Vallecano;0 -- 1;19;Liga;2013_2014
+;Elche;FC Séville;1 -- 1;19;Liga;2013_2014
+;Atl. Madrid;Barcelone;0 -- 0;19;Liga;2013_2014
+;Celta Vigo;Valence;2 -- 1;19;Liga;2013_2014
+;Ath. Bilbao;Almeria;6 -- 1;19;Liga;2013_2014
+;Grenade;Valladolid;4 -- 0;19;Liga;2013_2014
+;Vallecano;Villarreal;2 -- 5;18;Liga;2013_2014
+;Real Madrid;Celta Vigo;3 -- 0;18;Liga;2013_2014
+;Real Sociedad;Ath. Bilbao;2 -- 0;18;Liga;2013_2014
+;Osasuna;Espanyol;1 -- 0;18;Liga;2013_2014
+;Barcelone;Elche;4 -- 0;18;Liga;2013_2014
+;FC Séville;Getafe;3 -- 0;18;Liga;2013_2014
+;Almeria;Grenade;3 -- 0;18;Liga;2013_2014
+;Valence;Levante;2 -- 0;18;Liga;2013_2014
+;Valladolid;Betis;0 -- 0;18;Liga;2013_2014
+;Malaga;Atl. Madrid;0 -- 1;18;Liga;2013_2014
+;Celta Vigo;Osasuna;1 -- 1;17;Liga;2013_2014
+;Valence;Real Madrid;2 -- 3;17;Liga;2013_2014
+;Ath. Bilbao;Vallecano;2 -- 1;17;Liga;2013_2014
+;Getafe;Barcelone;2 -- 5;17;Liga;2013_2014
+;Espanyol;Valladolid;4 -- 2;17;Liga;2013_2014
+;Grenade;Real Sociedad;1 -- 3;17;Liga;2013_2014
+;Atl. Madrid;Levante ;3 -- 2;17;Liga;2013_2014
+;Betis;Almeria;0 -- 1;17;Liga;2013_2014
+;Villarreal;FC Séville ;1 -- 2;17;Liga;2013_2014
+;Elche ;Malaga;0 -- 1;17;Liga;2013_2014
+;Valladolid;Celta Vigo ;3 -- 0;16;Liga;2013_2014
+;Atl. Madrid;Valence;3 -- 0;16;Liga;2013_2014
+;FC Séville;Ath. Bilbao;1 -- 1;16;Liga;2013_2014
+;Real Sociedad;Betis;5 -- 1;16;Liga;2013_2014
+;Almeria;Espanyol;0 -- 0;16;Liga;2013_2014
+;Malaga;Getafe;1 -- 0;16;Liga;2013_2014
+;Barcelone;Villarreal;2 -- 1;16;Liga;2013_2014
+;Vallecano ;Grenade;0 -- 2;16;Liga;2013_2014
+;Osasuna ;Real Madrid ;2 -- 2;16;Liga;2013_2014
+;Levante;Elche;2 -- 1;16;Liga;2013_2014
+;Ath. Bilbao;Barcelone;1 -- 0;15;Liga;2013_2014
+;Valence;Osasuna ;3 -- 0;15;Liga;2013_2014
+;Grenade;FC Séville;1 -- 2;15;Liga;2013_2014
+;Betis;Vallecano;2 -- 2;15;Liga;2013_2014
+;Espanyol;Real Sociedad;1 -- 2;15;Liga;2013_2014
+;Real Madrid;Valladolid;4 -- 0;15;Liga;2013_2014
+;Celta Vigo;Almeria;3 -- 1;15;Liga;2013_2014
+;Elche;Atl. Madrid;0 -- 2;15;Liga;2013_2014
+;Villarreal;Malaga;1 -- 1;15;Liga;2013_2014
+;Getafe;Levante;1 -- 0;15;Liga;2013_2014
+;Malaga ;Ath. Bilbao;1 -- 2;14;Liga;2013_2014
+;FC Séville;Betis ;4 -- 0;14;Liga;2013_2014
+;Elche;Valence;2 -- 1;14;Liga;2013_2014
+;Vallecano ;Espanyol;1 -- 4;14;Liga;2013_2014
+;Levante ;Villarreal;0 -- 3;14;Liga;2013_2014
+;Atl. Madrid;Getafe ;7 -- 0;14;Liga;2013_2014
+;Almeria;Real Madrid;0 -- 5;14;Liga;2013_2014
+;Real Sociedad;Celta Vigo ;4 -- 3;14;Liga;2013_2014
+;Barcelone;Grenade ;4 -- 0;14;Liga;2013_2014
+;Valladolid;Osasuna;0 -- 1;14;Liga;2013_2014
+;Betis;Barcelone;1 -- 4;13;Liga;2013_2014
+;Villarreal;Atl. Madrid;1 -- 1;13;Liga;2013_2014
+;Valence;Valladolid;2 -- 2;13;Liga;2013_2014
+;Espanyol ;FC Séville;1 -- 3;13;Liga;2013_2014
+;Celta Vigo;Vallecano;0 -- 2;13;Liga;2013_2014
+;Ath. Bilbao ;Levante;2 -- 1;13;Liga;2013_2014
+;Getafe;Elche;1 -- 1;13;Liga;2013_2014
+;Real Madrid;Real Sociedad;5 -- 1;13;Liga;2013_2014
+;Grenade;Malaga;3 -- 1;13;Liga;2013_2014
+;Osasuna;Almeria;0 -- 1;13;Liga;2013_2014
+;Elche;Villarreal;0 -- 1;12;Liga;2013_2014
+;Malaga;Betis;3 -- 2;12;Liga;2013_2014
+;Levante;Grenade;0 -- 1;12;Liga;2013_2014
+;Atl. Madrid;Ath. Bilbao ;2 -- 0;12;Liga;2013_2014
+;Getafe;Valence;0 -- 1;12;Liga;2013_2014
+;FC Séville;Celta Vigo;0 -- 1;12;Liga;2013_2014
+;Vallecano;Real Madrid;2 -- 3;12;Liga;2013_2014
+;Almeria;Valladolid ;1 -- 0;12;Liga;2013_2014
+;Real Sociedad;Osasuna ;5 -- 0;12;Liga;2013_2014
+;Barcelone;Espanyol;1 -- 0;12;Liga;2013_2014
+;Ath. Bilbao;Elche;2 -- 2;11;Liga;2013_2014
+;Betis ;Levante;0 -- 0;11;Liga;2013_2014
+;Grenade;Atl. Madrid ;1 -- 2;11;Liga;2013_2014
+;Villarreal ;Getafe;0 -- 2;11;Liga;2013_2014
+;Osasuna ;Vallecano;3 -- 1;11;Liga;2013_2014
+;Real Madrid;FC Séville ;7 -- 3;11;Liga;2013_2014
+;Valence;Almeria;1 -- 2;11;Liga;2013_2014
+;Valladolid;Real Sociedad;2 -- 2;11;Liga;2013_2014
+;Celta Vigo;Barcelone;0 -- 3;11;Liga;2013_2014
+;Espanyol;Malaga;0 -- 0;11;Liga;2013_2014
+;Getafe;Ath. Bilbao;0 -- 1;10;Liga;2013_2014
+;Atl. Madrid;Betis;5 -- 0;10;Liga;2013_2014
+;Real Sociedad;Almeria;3 -- 0;10;Liga;2013_2014
+;Villarreal;Valence;4 -- 1;10;Liga;2013_2014
+;FC Séville;Osasuna ;2 -- 1;10;Liga;2013_2014
+;Levante;Espanyol;3 -- 0;10;Liga;2013_2014
+;Elche;Grenade;0 -- 1;10;Liga;2013_2014
+;Barcelone;Real Madrid;2 -- 1;10;Liga;2013_2014
+;Malaga;Celta Vigo;0 -- 5;10;Liga;2013_2014
+;Vallecano;Valladolid;0 -- 3;10;Liga;2013_2014
+;Ath. Bilbao;Villarreal ;2 -- 0;9;Liga;2013_2014
+;Celta Vigo;Levante;0 -- 1;9;Liga;2013_2014
+;Valladolid;FC Séville;2 -- 2;9;Liga;2013_2014
+;Betis;Elche ;1 -- 2;9;Liga;2013_2014
+;Almeria;Vallecano ;0 -- 1;9;Liga;2013_2014
+;Grenade ;Getafe;0 -- 2;9;Liga;2013_2014
+;Espanyol;Atl. Madrid;1 -- 0;9;Liga;2013_2014
+;Osasuna;Barcelone;0 -- 0;9;Liga;2013_2014
+;Valence;Real Sociedad;1 -- 2;9;Liga;2013_2014
+;Real Madrid;Malaga;2 -- 0;9;Liga;2013_2014
+;Ath. Bilbao;Valence;1 -- 1;8;Liga;2013_2014
+;Getafe;Betis;3 -- 1;8;Liga;2013_2014
+;FC Séville;Almeria;2 -- 1;8;Liga;2013_2014
+;Atl. Madrid;Celta Vigo;2 -- 1;8;Liga;2013_2014
+;Barcelone;Valladolid;4 -- 1;8;Liga;2013_2014
+;Levante;Real Madrid;2 -- 3;8;Liga;2013_2014
+;Vallecano;Real Sociedad;1 -- 0;8;Liga;2013_2014
+;Elche;Espanyol ;2 -- 1;8;Liga;2013_2014
+;Malaga;Osasuna;0 -- 1;8;Liga;2013_2014
+;Villarreal;Grenade;3 -- 0;8;Liga;2013_2014
+;Grenade;Ath. Bilbao;2 -- 0;7;Liga;2013_2014
+;Betis;Villarreal;1 -- 0;7;Liga;2013_2014
+;Espanyol;Getafe;0 -- 2;7;Liga;2013_2014
+;Celta Vigo;Elche;0 -- 1;7;Liga;2013_2014
+;Osasuna ;Levante;0 -- 1;7;Liga;2013_2014
+;Real Madrid;Atl. Madrid;0 -- 1;7;Liga;2013_2014
+;Real Sociedad;FC Séville ;1 -- 1;7;Liga;2013_2014
+;Almeria;Barcelone;0 -- 2;7;Liga;2013_2014
+;Valence;Vallecano;1 -- 0;7;Liga;2013_2014
+;Valladolid;Malaga;2 -- 2;7;Liga;2013_2014
+;Getafe;Celta Vigo;2 -- 0;6;Liga;2013_2014
+;Villarreal;Espanyol;2 -- 1;6;Liga;2013_2014
+;Ath. Bilbao;Betis;2 -- 1;6;Liga;2013_2014
+;Elche ;Real Madrid;1 -- 2;6;Liga;2013_2014
+;FC Séville;Vallecano ;4 -- 1;6;Liga;2013_2014
+;Grenade;Valence;0 -- 1;6;Liga;2013_2014
+;Atl. Madrid;Osasuna;2 -- 1;6;Liga;2013_2014
+;Malaga;Almeria;2 -- 0;6;Liga;2013_2014
+;Barcelone;Real Sociedad;4 -- 1;6;Liga;2013_2014
+;Levante;Valladolid ;1 -- 1;6;Liga;2013_2014
+;Espanyol;Ath. Bilbao;3 -- 2;5;Liga;2013_2014
+;Valence;FC Séville;3 -- 1;5;Liga;2013_2014
+;Real Madrid;Getafe ;4 -- 1;5;Liga;2013_2014
+;Celta Vigo;Villarreal;0 -- 0;5;Liga;2013_2014
+;Betis;Grenade;0 -- 0;5;Liga;2013_2014
+;Valladolid;Atl. Madrid;0 -- 2;5;Liga;2013_2014
+;Vallecano;Barcelone;0 -- 4;5;Liga;2013_2014
+;Almeria ;Levante;2 -- 2;5;Liga;2013_2014
+;Real Sociedad;Malaga;0 -- 0;5;Liga;2013_2014
+;Osasuna;Elche;2 -- 1;5;Liga;2013_2014
+;Ath. Bilbao;Celta Vigo;3 -- 2;4;Liga;2013_2014
+;Elche;Valladolid;0 -- 0;4;Liga;2013_2014
+;Betis;Valence;3 -- 1;4;Liga;2013_2014
+;Malaga;Vallecano;5 -- 0;4;Liga;2013_2014
+;Getafe;Osasuna;2 -- 1;4;Liga;2013_2014
+;Grenade ;Espanyol;0 -- 1;4;Liga;2013_2014
+;Villarreal;Real Madrid;2 -- 2;4;Liga;2013_2014
+;Barcelone;FC Séville;3 -- 2;4;Liga;2013_2014
+;Levante;Real Sociedad;0 -- 0;4;Liga;2013_2014
+;Atl. Madrid;Almeria;4 -- 2;4;Liga;2013_2014
+;FC Séville;Malaga ;2 -- 2;3;Liga;2013_2014
+;Valence;Barcelone;2 -- 3;3;Liga;2013_2014
+;Real Sociedad;Atl. Madrid;1 -- 2;3;Liga;2013_2014
+;Espanyol;Betis;0 -- 0;3;Liga;2013_2014
+;Real Madrid;Ath. Bilbao;3 -- 1;3;Liga;2013_2014
+;Osasuna;Villarreal;0 -- 3;3;Liga;2013_2014
+;Valladolid;Getafe;1 -- 0;3;Liga;2013_2014
+;Celta Vigo;Grenade;1 -- 1;3;Liga;2013_2014
+;Almeria ;Elche;2 -- 2;3;Liga;2013_2014
+;Vallecano ;Levante;1 -- 2;3;Liga;2013_2014
+;Grenade;Real Madrid;0 -- 1;2;Liga;2013_2014
+;Betis;Celta Vigo ;1 -- 2;2;Liga;2013_2014
+;Levante;FC Séville;0 -- 0;2;Liga;2013_2014
+;Malaga;Barcelone;0 -- 1;2;Liga;2013_2014
+;Atl. Madrid;Vallecano;5 -- 0;2;Liga;2013_2014
+;Villarreal;Valladolid;2 -- 1;2;Liga;2013_2014
+;Espanyol;Valence;3 -- 1;2;Liga;2013_2014
+;Elche;Real Sociedad;1 -- 1;2;Liga;2013_2014
+;Ath. Bilbao;Osasuna;2 -- 0;2;Liga;2013_2014
+;Getafe;Almeria;2 -- 2;2;Liga;2013_2014
+;Almeria;Villarreal;2 -- 3;1;Liga;2013_2014
+;Celta Vigo;Espanyol;2 -- 2;1;Liga;2013_2014
+;Vallecano;Elche;3 -- 0;1;Liga;2013_2014
+;FC Séville;Atl. Madrid;1 -- 3;1;Liga;2013_2014
+;Osasuna;Grenade;1 -- 2;1;Liga;2013_2014
+;Real Madrid;Betis;2 -- 1;1;Liga;2013_2014
+;Barcelone;Levante;7 -- 0;1;Liga;2013_2014
+;Valence;Malaga;1 -- 0;1;Liga;2013_2014
+;Valladolid;Ath. Bilbao;1 -- 2;1;Liga;2013_2014
+;Real Sociedad;Getafe;2 -- 0;1;Liga;2013_2014

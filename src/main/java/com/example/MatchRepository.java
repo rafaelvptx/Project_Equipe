@@ -48,16 +48,20 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
     Collection<Object> findDaysByLeagueAndSeason(String league, String saison);
     
     @Query("select DISTINCT m.nomEquipeHome from Match m " +
-    		"where m.ligue = ?1 and m.saison = ?2")
+    		"where m.ligue = ?1 and m.saison = ?2 ORDER BY m.nomEquipeHome")
     Collection<Object> findEquipeHomeByLeagueAndSeason(String league, String saison);
     
     Collection<Match> findByLigueAndSaisonAndJournee(String ligue, String saison, int journee);
     
     @Query("select m from Match m " +
-            "where ( m.ligue = ?1 and m.saison = ?2 and m.nomEquipeHome = ?3 ) "
-            +  "or ( m.ligue = ?1 and m.saison = ?2 and m.equipeAway = ?3 )")
+            "WHERE (( m.ligue = ?1 and m.saison = ?2 and m.nomEquipeHome = ?3 ) "
+            +  "OR ( m.ligue = ?1 and m.saison = ?2 and m.equipeAway = ?3 )) ORDER BY m.journee")
     Collection<Match> findByLigueAndSaisonAndEquipe(String ligue, String saison, String equipe);
     
+    
+    @Query("select m from Match m " +
+    		"where ( m.ligue = ?1 and m.saison < ?2 and m.nomEquipeHome = ?3 AND m.equipeAway = ?4)")
+    Collection<Match> findConfrontation(String ligue, String saison, String equipeH, String equipeA);
     
     
 }
