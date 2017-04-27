@@ -5,21 +5,21 @@ Barcelone;La Corogne;2--2;38;Liga;2014_2015
 Celta Vigo;Espanyol;3--2;38;Liga;2014_2015
 Eibar;Cordoba;3--0;38;Liga;2014_2015
 Grenade;Atl. Madrid;0--0;38;Liga;2014_2015
-Malaga;FC Séville;2--3;38;Liga;2014_2015
+Malaga;FC Seville;2--3;38;Liga;2014_2015
 Vallecano;Real Sociedad;2--4;38;Liga;2014_2015
 Levante;Elche;0--0;38;Liga;2014_2015
 Atl. Madrid;Barcelone;0--1;37;Liga;2014_2015
 Cordoba;Vallecano;1--2;37;Liga;2014_2015
 Elche;Ath. Bilbao;2--3;37;Liga;2014_2015
 Espanyol;Real Madrid;1--4;37;Liga;2014_2015
-FC Séville;Almeria;2--1;37;Liga;2014_2015
+FC Seville;Almeria;2--1;37;Liga;2014_2015
 Getafe;Eibar;1--1;37;Liga;2014_2015
 La Corogne;Levante;2--0;37;Liga;2014_2015
 Real Sociedad;Grenade;0--3;37;Liga;2014_2015
 Valence;Celta Vigo;1--1;37;Liga;2014_2015
 Villarreal;Malaga;2--1;37;Liga;2014_2015
 Vallecano;Getafe;2--0;36;Liga;2014_2015
-Celta Vigo;FC Séville;1--1;36;Liga;2014_2015
+Celta Vigo;FC Seville;1--1;36;Liga;2014_2015
 Almeria;Malaga;1--2;36;Liga;2014_2015
 Villarreal;Elche;1--0;36;Liga;2014_2015
 Levante;Atl. Madrid;2--2;36;Liga;2014_2015
@@ -34,7 +34,7 @@ Valence;Eibar;3--1;35;Liga;2014_2015
 Getafe;Grenade;1--2;35;Liga;2014_2015
 Espanyol;Vallecano;1--1;35;Liga;2014_2015
 La Corogne;Villarreal;1--1;35;Liga;2014_2015
-FC Séville;Real Madrid;2--3;35;Liga;2014_2015
+FC Seville;Real Madrid;2--3;35;Liga;2014_2015
 Atl. Madrid;Ath. Bilbao;0--0;35;Liga;2014_2015
 Cordoba;Barcelone;0--8;35;Liga;2014_2015
 Real Sociedad;Levante;3--0;35;Liga;2014_2015
@@ -43,14 +43,14 @@ Vallecano;Valence;1--1;34;Liga;2014_2015
 Elche;La Corogne;4--0;34;Liga;2014_2015
 Villarreal;Atl. Madrid;0--1;34;Liga;2014_2015
 Celta Vigo;Malaga;1--0;34;Liga;2014_2015
-Eibar;FC Séville;1--3;34;Liga;2014_2015
+Eibar;FC Seville;1--3;34;Liga;2014_2015
 Real Madrid;Almeria;3--0;34;Liga;2014_2015
 Ath. Bilbao;Real Sociedad;1--1;34;Liga;2014_2015
 Levante;Cordoba;1--0;34;Liga;2014_2015
 Barcelone;Getafe;6--0;34;Liga;2014_2015
 Valence;Grenade;4--0;33;Liga;2014_2015
 Celta Vigo;Real Madrid;2--4;33;Liga;2014_2015
-FC Séville;Vallecano;2--0;33;Liga;2014_2015
+FC Seville;Vallecano;2--0;33;Liga;2014_2015
 Almeria;Eibar;2--0;33;Liga;2014_2015
 Malaga;La Corogne;1--1;33;Liga;2014_2015
 Real Sociedad;Villarreal;0--0;33;Liga;2014_2015
@@ -61,7 +61,7 @@ Cordoba;Ath. Bilbao;0--1;33;Liga;2014_2015
 Elche;Real Sociedad;1--0;32;Liga;2014_2015
 Eibar;Celta Vigo;0--1;32;Liga;2014_2015
 Villarreal;Cordoba;0--0;32;Liga;2014_2015
-Grenade;FC Séville;1--1;32;Liga;2014_2015
+Grenade;FC Seville;1--1;32;Liga;2014_2015
 Vallecano;Almeria;2--0;32;Liga;2014_2015
 Ath. Bilbao;Getafe;4--0;32;Liga;2014_2015
 Real Madrid;Malaga;3--1;32;Liga;2014_2015
@@ -75,7 +75,7 @@ Espanyol;Ath. Bilbao;1--0;31;Liga;2014_2015
 Getafe;Villarreal;1--1;31;Liga;2014_2015
 Almeria;Grenade;3--0;31;Liga;2014_2015
 Celta Vigo;Vallecano;6--1;31;Liga;2014_2015
-FC Séville;Barcelone;2--2;31;Liga;2014_2015
+FC Seville;Barcelone;2--2;31;Liga;2014_2015
 Malaga;Atl. Madrid;2--2;31;Liga;2014_2015
 Real Madrid;Eibar;3--0;31;Liga;2014_2015
 Elche;Getafe;0--1;30;Liga;2014_2015
@@ -86,7 +86,7 @@ Vallecano;Real Madrid;0--2;30;Liga;2014_2015
 Barcelone;Almeria;4--0;30;Liga;2014_2015
 La Corogne;Cordoba;1--1;30;Liga;2014_2015
 Eibar;Malaga;1--0;30;Liga;2014_2015
-Levante;FC Séville;1--2;30;Liga;2014_2015
+Levante;FC Seville;1--2;30;Liga;2014_2015
 Atl. Madrid;Real Sociedad;2--0;30;Liga;2014_2015
 Espanyol;Elche;1--1;29;Liga;2014_2015
 Celta Vigo;Barcelone;0--1;29;Liga;2014_2015
@@ -96,11 +96,11 @@ Real Madrid;Grenade;9--1;29;Liga;2014_2015
 Malaga;Real Sociedad;1--1;29;Liga;2014_2015
 Almeria;Levante;1--4;29;Liga;2014_2015
 Cordoba;Atl. Madrid;0--2;29;Liga;2014_2015
-FC Séville;Ath. Bilbao;2--0;29;Liga;2014_2015
+FC Seville;Ath. Bilbao;2--0;29;Liga;2014_2015
 Eibar;Vallecano;1--2;29;Liga;2014_2015
 Barcelone;Real Madrid;2--1;28;Liga;2014_2015
 Real Sociedad;Cordoba;3--1;28;Liga;2014_2015
-Villarreal;FC Séville;0--2;28;Liga;2014_2015
+Villarreal;FC Seville;0--2;28;Liga;2014_2015
 La Corogne;Espanyol;0--0;28;Liga;2014_2015
 Ath. Bilbao;Almeria;2--1;28;Liga;2014_2015
 Grenade;Eibar;0--0;28;Liga;2014_2015
@@ -110,7 +110,7 @@ Atl. Madrid;Getafe;2--0;28;Liga;2014_2015
 Elche;Valence;0--4;28;Liga;2014_2015
 Getafe;Real Sociedad;0--1;27;Liga;2014_2015
 Real Madrid;Levante;2--0;27;Liga;2014_2015
-FC Séville;Elche;3--0;27;Liga;2014_2015
+FC Seville;Elche;3--0;27;Liga;2014_2015
 Malaga;Cordoba;2--0;27;Liga;2014_2015
 Almeria;Villarreal;0--0;27;Liga;2014_2015
 Celta Vigo;Ath. Bilbao;1--2;27;Liga;2014_2015
@@ -126,11 +126,11 @@ Barcelone;Vallecano;6--1;26;Liga;2014_2015
 Grenade;Malaga;1--0;26;Liga;2014_2015
 Elche;Almeria;1--0;26;Liga;2014_2015
 Ath. Bilbao;Real Madrid;1--0;26;Liga;2014_2015
-La Corogne;FC Séville;3--4;26;Liga;2014_2015
+La Corogne;FC Seville;3--4;26;Liga;2014_2015
 Levante;Eibar;2--1;26;Liga;2014_2015
 Celta Vigo;Elche;1--1;25;Liga;2014_2015
 Real Madrid;Villarreal;1--1;25;Liga;2014_2015
-FC Séville;Atl. Madrid;0--0;25;Liga;2014_2015
+FC Seville;Atl. Madrid;0--0;25;Liga;2014_2015
 Eibar;Ath. Bilbao;0--1;25;Liga;2014_2015
 Valence;Real Sociedad;2--0;25;Liga;2014_2015
 Malaga;Getafe;3--2;25;Liga;2014_2015
@@ -142,7 +142,7 @@ Levante;Grenade;2--1;24;Liga;2014_2015
 Elche;Real Madrid;0--2;24;Liga;2014_2015
 Villarreal;Eibar;1--0;24;Liga;2014_2015
 Ath. Bilbao;Vallecano;1--0;24;Liga;2014_2015
-Real Sociedad;FC Séville;4--3;24;Liga;2014_2015
+Real Sociedad;FC Seville;4--3;24;Liga;2014_2015
 La Corogne;Celta Vigo;0--2;24;Liga;2014_2015
 Atl. Madrid;Almeria;3--0;24;Liga;2014_2015
 Cordoba;Valence;1--2;24;Liga;2014_2015
@@ -156,12 +156,12 @@ Valence;Getafe;1--0;23;Liga;2014_2015
 Malaga;Espanyol;0--2;23;Liga;2014_2015
 Grenade;Ath. Bilbao;0--0;23;Liga;2014_2015
 Real Madrid;La Corogne;2--0;23;Liga;2014_2015
-FC Séville;Cordoba;3--0;23;Liga;2014_2015
+FC Seville;Cordoba;3--0;23;Liga;2014_2015
 Almeria;Real Sociedad;2--2;23;Liga;2014_2015
 Elche;Vallecano;2--0;22;Liga;2014_2015
 Ath. Bilbao;Barcelone;2--5;22;Liga;2014_2015
 Espanyol;Valence;1--2;22;Liga;2014_2015
-Getafe;FC Séville;2--1;22;Liga;2014_2015
+Getafe;FC Seville;2--1;22;Liga;2014_2015
 Cordoba;Almeria;1--2;22;Liga;2014_2015
 Real Sociedad;Celta Vigo;1--1;22;Liga;2014_2015
 Levante;Malaga;4--1;22;Liga;2014_2015
@@ -170,7 +170,7 @@ Atl. Madrid;Real Madrid;4--0;22;Liga;2014_2015
 La Corogne;Eibar;2--0;22;Liga;2014_2015
 Malaga;Valence;1--0;21;Liga;2014_2015
 Barcelone;Villarreal;3--2;21;Liga;2014_2015
-FC Séville;Espanyol;3--2;21;Liga;2014_2015
+FC Seville;Espanyol;3--2;21;Liga;2014_2015
 Almeria;Getafe;1--0;21;Liga;2014_2015
 Levante;Ath. Bilbao;0--2;21;Liga;2014_2015
 Celta Vigo;Cordoba;1--0;21;Liga;2014_2015
@@ -179,7 +179,7 @@ Eibar;Atl. Madrid;1--3;21;Liga;2014_2015
 Real Madrid;Real Sociedad;4--1;21;Liga;2014_2015
 Vallecano;La Corogne;1--2;21;Liga;2014_2015
 Getafe;Celta Vigo;2--1;20;Liga;2014_2015
-Valence;FC Séville;3--1;20;Liga;2014_2015
+Valence;FC Seville;3--1;20;Liga;2014_2015
 Espanyol;Almeria;3--0;20;Liga;2014_2015
 Ath. Bilbao;Malaga;1--1;20;Liga;2014_2015
 La Corogne;Grenade;2--2;20;Liga;2014_2015
@@ -189,7 +189,7 @@ Atl. Madrid;Vallecano;3--1;20;Liga;2014_2015
 Elche;Barcelone;0--6;20;Liga;2014_2015
 Cordoba;Real Madrid;1--2;20;Liga;2014_2015
 Elche;Levante;1--0;19;Liga;2014_2015
-FC Séville;Malaga;2--0;19;Liga;2014_2015
+FC Seville;Malaga;2--0;19;Liga;2014_2015
 La Corogne;Barcelone;0--4;19;Liga;2014_2015
 Atl. Madrid;Grenade;2--0;19;Liga;2014_2015
 Getafe;Real Madrid;0--3;19;Liga;2014_2015
@@ -202,7 +202,7 @@ Vallecano;Cordoba;0--1;18;Liga;2014_2015
 Barcelone;Atl. Madrid;3--1;18;Liga;2014_2015
 Grenade;Real Sociedad;1--1;18;Liga;2014_2015
 Ath. Bilbao;Elche;1--2;18;Liga;2014_2015
-Almeria;FC Séville;0--2;18;Liga;2014_2015
+Almeria;FC Seville;0--2;18;Liga;2014_2015
 Eibar;Getafe;2--1;18;Liga;2014_2015
 Celta Vigo;Valence;1--1;18;Liga;2014_2015
 Malaga;Villarreal;1--1;18;Liga;2014_2015
@@ -216,13 +216,13 @@ Getafe;Vallecano;1--2;17;Liga;2014_2015
 La Corogne;Ath. Bilbao;1--0;17;Liga;2014_2015
 Malaga;Almeria;1--2;17;Liga;2014_2015
 Elche;Villarreal;2--2;17;Liga;2014_2015
-FC Séville;Celta Vigo;1--0;17;Liga;2014_2015
+FC Seville;Celta Vigo;1--0;17;Liga;2014_2015
 Atl. Madrid;Levante;3--1;17;Liga;2014_2015
 Ath. Bilbao;Atl. Madrid;1--4;16;Liga;2014_2015
 Elche;Malaga;1--2;16;Liga;2014_2015
 Grenade;Getafe;1--1;16;Liga;2014_2015
 Villarreal;La Corogne;3--0;16;Liga;2014_2015
-Real Madrid;FC Séville;2--1;16;Liga;2014_2015
+Real Madrid;FC Seville;2--1;16;Liga;2014_2015
 Vallecano;Espanyol;1--3;16;Liga;2014_2015
 Eibar;Valence;0--1;16;Liga;2014_2015
 Levante;Real Sociedad;1--1;16;Liga;2014_2015
@@ -231,7 +231,7 @@ Celta Vigo;Almeria;0--1;16;Liga;2014_2015
 La Corogne;Elche;1--0;15;Liga;2014_2015
 Real Sociedad;Ath. Bilbao;1--1;15;Liga;2014_2015
 Atl. Madrid;Villarreal;0--1;15;Liga;2014_2015
-FC Séville;Eibar;0--0;15;Liga;2014_2015
+FC Seville;Eibar;0--0;15;Liga;2014_2015
 Espanyol;Grenade;2--1;15;Liga;2014_2015
 Malaga;Celta Vigo;1--0;15;Liga;2014_2015
 Cordoba;Levante;0--0;15;Liga;2014_2015
@@ -243,7 +243,7 @@ Eibar;Almeria;5--2;14;Liga;2014_2015
 Grenade;Valence;1--1;14;Liga;2014_2015
 Villarreal;Real Sociedad;4--0;14;Liga;2014_2015
 Barcelone;Espanyol;5--1;14;Liga;2014_2015
-Vallecano;FC Séville;0--1;14;Liga;2014_2015
+Vallecano;FC Seville;0--1;14;Liga;2014_2015
 La Corogne;Malaga;0--1;14;Liga;2014_2015
 Real Madrid;Celta Vigo;3--0;14;Liga;2014_2015
 Ath. Bilbao;Cordoba;0--1;14;Liga;2014_2015
@@ -251,7 +251,7 @@ Elche;Atl. Madrid;0--2;14;Liga;2014_2015
 Almeria;Vallecano;0--1;13;Liga;2014_2015
 Valence;Barcelone;0--1;13;Liga;2014_2015
 Cordoba;Villarreal;0--2;13;Liga;2014_2015
-FC Séville;Grenade;5--1;13;Liga;2014_2015
+FC Seville;Grenade;5--1;13;Liga;2014_2015
 Atl. Madrid;La Corogne;2--0;13;Liga;2014_2015
 Celta Vigo;Eibar;0--1;13;Liga;2014_2015
 Malaga;Real Madrid;1--2;13;Liga;2014_2015
@@ -264,14 +264,14 @@ Elche;Cordoba;2--2;12;Liga;2014_2015
 Levante;Valence;2--1;12;Liga;2014_2015
 Vallecano;Celta Vigo;1--0;12;Liga;2014_2015
 La Corogne;Real Sociedad;0--0;12;Liga;2014_2015
-Barcelone;FC Séville;5--1;12;Liga;2014_2015
+Barcelone;FC Seville;5--1;12;Liga;2014_2015
 Eibar;Real Madrid;0--4;12;Liga;2014_2015
 Atl. Madrid;Malaga;3--1;12;Liga;2014_2015
 Ath. Bilbao;Espanyol;3--1;12;Liga;2014_2015
 Real Sociedad;Atl. Madrid;2--1;11;Liga;2014_2015
 Valence;Ath. Bilbao;0--0;11;Liga;2014_2015
 Espanyol;Villarreal;1--1;11;Liga;2014_2015
-FC Séville;Levante;1--1;11;Liga;2014_2015
+FC Seville;Levante;1--1;11;Liga;2014_2015
 Celta Vigo;Grenade;0--0;11;Liga;2014_2015
 Malaga;Eibar;2--1;11;Liga;2014_2015
 Real Madrid;Vallecano;5--1;11;Liga;2014_2015
@@ -282,14 +282,14 @@ Vallecano;Eibar;2--3;10;Liga;2014_2015
 Elche;Espanyol;2--1;10;Liga;2014_2015
 Levante;Almeria;2--1;10;Liga;2014_2015
 Villarreal;Valence;1--3;10;Liga;2014_2015
-Ath. Bilbao;FC Séville;1--0;10;Liga;2014_2015
+Ath. Bilbao;FC Seville;1--0;10;Liga;2014_2015
 Real Sociedad;Malaga;0--1;10;Liga;2014_2015
 Barcelone;Celta Vigo;0--1;10;Liga;2014_2015
 Atl. Madrid;Cordoba;4--2;10;Liga;2014_2015
 Grenade;Real Madrid;0--4;10;Liga;2014_2015
 La Corogne;Getafe;1--2;10;Liga;2014_2015
 Getafe;Atl. Madrid;0--1;9;Liga;2014_2015
-FC Séville;Villarreal;2--1;9;Liga;2014_2015
+FC Seville;Villarreal;2--1;9;Liga;2014_2015
 Espanyol;La Corogne;0--0;9;Liga;2014_2015
 Malaga;Vallecano;4--0;9;Liga;2014_2015
 Cordoba;Real Sociedad;1--1;9;Liga;2014_2015
@@ -300,7 +300,7 @@ Almeria;Ath. Bilbao;0--1;9;Liga;2014_2015
 Celta Vigo;Levante;3--0;9;Liga;2014_2015
 Real Sociedad;Getafe;1--2;8;Liga;2014_2015
 Villarreal;Almeria;2--0;8;Liga;2014_2015
-Elche;FC Séville;0--2;8;Liga;2014_2015
+Elche;FC Seville;0--2;8;Liga;2014_2015
 La Corogne;Valence;3--0;8;Liga;2014_2015
 Atl. Madrid;Espanyol;2--0;8;Liga;2014_2015
 Cordoba;Malaga;1--2;8;Liga;2014_2015
@@ -311,7 +311,7 @@ Grenade;Vallecano;0--1;8;Liga;2014_2015
 Real Madrid;Ath. Bilbao;5--0;7;Liga;2014_2015
 Espanyol;Real Sociedad;2--0;7;Liga;2014_2015
 Celta Vigo;Villarreal;1--3;7;Liga;2014_2015
-FC Séville;La Corogne;4--1;7;Liga;2014_2015
+FC Seville;La Corogne;4--1;7;Liga;2014_2015
 Almeria;Elche;2--2;7;Liga;2014_2015
 Malaga;Grenade;2--1;7;Liga;2014_2015
 Eibar;Levante;3--3;7;Liga;2014_2015
@@ -324,13 +324,13 @@ La Corogne;Almeria;0--1;6;Liga;2014_2015
 Getafe;Malaga;1--0;6;Liga;2014_2015
 Ath. Bilbao;Eibar;0--0;6;Liga;2014_2015
 Levante;Vallecano;0--2;6;Liga;2014_2015
-Atl. Madrid;FC Séville;4--0;6;Liga;2014_2015
+Atl. Madrid;FC Seville;4--0;6;Liga;2014_2015
 Barcelone;Grenade;6--0;6;Liga;2014_2015
 Villarreal;Real Madrid;0--2;6;Liga;2014_2015
 Elche;Celta Vigo;0--1;6;Liga;2014_2015
 Valence;Cordoba;3--0;5;Liga;2014_2015
 Espanyol;Getafe;2--0;5;Liga;2014_2015
-FC Séville;Real Sociedad;1--0;5;Liga;2014_2015
+FC Seville;Real Sociedad;1--0;5;Liga;2014_2015
 Grenade;Levante;0--1;5;Liga;2014_2015
 Malaga;Barcelone;0--0;5;Liga;2014_2015
 Almeria;Atl. Madrid;0--1;5;Liga;2014_2015
@@ -340,7 +340,7 @@ Celta Vigo;La Corogne;2--1;5;Liga;2014_2015
 Real Madrid;Elche;5--1;5;Liga;2014_2015
 Getafe;Valence;0--3;4;Liga;2014_2015
 Levante;Barcelone;0--5;4;Liga;2014_2015
-Cordoba;FC Séville;1--3;4;Liga;2014_2015
+Cordoba;FC Seville;1--3;4;Liga;2014_2015
 Villarreal;Vallecano;4--2;4;Liga;2014_2015
 Real Sociedad;Almeria;1--2;4;Liga;2014_2015
 Espanyol;Malaga;2--2;4;Liga;2014_2015
@@ -350,7 +350,7 @@ La Corogne;Real Madrid;2--8;4;Liga;2014_2015
 Elche;Eibar;0--2;4;Liga;2014_2015
 Eibar;La Corogne;0--1;3;Liga;2014_2015
 Grenade;Villarreal;0--0;3;Liga;2014_2015
-FC Séville;Getafe;2--0;3;Liga;2014_2015
+FC Seville;Getafe;2--0;3;Liga;2014_2015
 Valence;Espanyol;3--1;3;Liga;2014_2015
 Vallecano;Elche;2--3;3;Liga;2014_2015
 Celta Vigo;Real Sociedad;2--2;3;Liga;2014_2015
@@ -362,7 +362,7 @@ Elche;Grenade;1--1;2;Liga;2014_2015
 La Corogne;Vallecano;2--2;2;Liga;2014_2015
 Real Sociedad;Real Madrid;4--2;2;Liga;2014_2015
 Villarreal;Barcelone;0--1;2;Liga;2014_2015
-Espanyol;FC Séville;1--2;2;Liga;2014_2015
+Espanyol;FC Seville;1--2;2;Liga;2014_2015
 Atl. Madrid;Eibar;2--1;2;Liga;2014_2015
 Ath. Bilbao;Levante;3--0;2;Liga;2014_2015
 Cordoba;Celta Vigo;1--1;2;Liga;2014_2015
@@ -375,6 +375,6 @@ Barcelone;Elche;3--0;1;Liga;2014_2015
 Celta Vigo;Getafe;3--1;1;Liga;2014_2015
 Eibar;Real Sociedad;1--0;1;Liga;2014_2015
 Almeria;Espanyol;1--1;1;Liga;2014_2015
-FC Séville;Valence;1--1;1;Liga;2014_2015
+FC Seville;Valence;1--1;1;Liga;2014_2015
 Grenade;La Corogne;2--1;1;Liga;2014_2015
 Malaga;Ath. Bilbao;1--0;1;Liga;2014_2015

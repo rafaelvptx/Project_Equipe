@@ -1,7 +1,7 @@
 Atl. Madrid;Ath. Bilbao;;38;Liga;2016_2017
 Barcelone;Eibar;;38;Liga;2016_2017
 Celta Vigo;Real Sociedad;;38;Liga;2016_2017
-FC Séville;Osasuna;;38;Liga;2016_2017
+FC Seville;Osasuna;;38;Liga;2016_2017
 Gijon;Betis;;38;Liga;2016_2017
 Grenade;Espanyol;;38;Liga;2016_2017
 La Corogne;Las Palmas;;38;Liga;2016_2017
@@ -15,10 +15,10 @@ Eibar;Gijon;;37;Liga;2016_2017
 Espanyol;Valence;;37;Liga;2016_2017
 Las Palmas;Barcelone;;37;Liga;2016_2017
 Osasuna;Grenade;;37;Liga;2016_2017
-Real Madrid;FC Séville;;37;Liga;2016_2017
+Real Madrid;FC Seville;;37;Liga;2016_2017
 Real Sociedad;Malaga;;37;Liga;2016_2017
 Villarreal;La Corogne;;37;Liga;2016_2017
-FC Séville;Real Sociedad;;36;Liga;2016_2017
+FC Seville;Real Sociedad;;36;Liga;2016_2017
 Gijon;Las Palmas;;36;Liga;2016_2017
 Atl. Madrid;Eibar;;36;Liga;2016_2017
 Barcelone;Villarreal;;36;Liga;2016_2017
@@ -37,7 +37,7 @@ Osasuna;La Corogne;;35;Liga;2016_2017
 Betis;Alaves;;35;Liga;2016_2017
 Eibar;Leganes;;35;Liga;2016_2017
 Celta Vigo;Ath. Bilbao;;35;Liga;2016_2017
-Malaga;FC Séville;;35;Liga;2016_2017
+Malaga;FC Seville;;35;Liga;2016_2017
 La Corogne;Real Madrid;2--6;34;Liga;2016_2017
 Leganes;Las Palmas;3--0;34;Liga;2016_2017
 Valence;Real Sociedad;2--3;34;Liga;2016_2017
@@ -46,7 +46,7 @@ Atl. Madrid;Villarreal;0--1;34;Liga;2016_2017
 Grenade;Malaga;0--2;34;Liga;2016_2017
 Gijon;Espanyol;1--1;34;Liga;2016_2017
 Alaves;Eibar;;34;Liga;2016_2017
-FC Séville;Celta Vigo;;34;Liga;2016_2017
+FC Seville;Celta Vigo;;34;Liga;2016_2017
 Ath. Bilbao;Betis;;34;Liga;2016_2017
 Eibar;Ath. Bilbao;0--1;33;Liga;2016_2017
 Real Madrid;Barcelone;2--3;33;Liga;2016_2017
@@ -57,11 +57,11 @@ Espanyol;Atl. Madrid;0--1;33;Liga;2016_2017
 Osasuna;Gijon;2--2;33;Liga;2016_2017
 Villarreal;Leganes;2--1;33;Liga;2016_2017
 Malaga;Valence;2--0;33;Liga;2016_2017
-FC Séville;Grenade;2--0;33;Liga;2016_2017
+FC Seville;Grenade;2--0;33;Liga;2016_2017
 Alaves;Villarreal;2--1;32;Liga;2016_2017
 Grenade;Celta Vigo;0--3;32;Liga;2016_2017
 Betis;Eibar;2--0;32;Liga;2016_2017
-Valence;FC Séville;0--0;32;Liga;2016_2017
+Valence;FC Seville;0--0;32;Liga;2016_2017
 Leganes;Espanyol;0--1;32;Liga;2016_2017
 Barcelone;Real Sociedad;3--2;32;Liga;2016_2017
 Atl. Madrid;Osasuna;3--0;32;Liga;2016_2017
@@ -74,7 +74,7 @@ Osasuna;Leganes;2--1;31;Liga;2016_2017
 Celta Vigo;Eibar;0--2;31;Liga;2016_2017
 Grenade;Valence;1--3;31;Liga;2016_2017
 Malaga;Barcelone;2--0;31;Liga;2016_2017
-FC Séville;La Corogne;4--2;31;Liga;2016_2017
+FC Seville;La Corogne;4--2;31;Liga;2016_2017
 Real Madrid;Atl. Madrid;1--1;31;Liga;2016_2017
 Espanyol;Alaves;1--0;31;Liga;2016_2017
 Villarreal;Ath. Bilbao;3--1;31;Liga;2016_2017
@@ -84,7 +84,7 @@ Leganes;Real Madrid;2--4;30;Liga;2016_2017
 Alaves;Osasuna;0--1;30;Liga;2016_2017
 Gijon;Malaga;0--1;30;Liga;2016_2017
 La Corogne;Grenade;0--0;30;Liga;2016_2017
-Barcelone;FC Séville;3--0;30;Liga;2016_2017
+Barcelone;FC Seville;3--0;30;Liga;2016_2017
 Atl. Madrid;Real Sociedad;1--0;30;Liga;2016_2017
 Betis;Villarreal;0--1;30;Liga;2016_2017
 Ath. Bilbao;Espanyol;2--0;30;Liga;2016_2017
@@ -92,7 +92,7 @@ Celta Vigo;Las Palmas;3--1;29;Liga;2016_2017
 Grenade;Barcelone;1--4;29;Liga;2016_2017
 Valence;La Corogne;3--0;29;Liga;2016_2017
 Real Madrid;Alaves;3--0;29;Liga;2016_2017
-FC Séville;Gijon;0--0;29;Liga;2016_2017
+FC Seville;Gijon;0--0;29;Liga;2016_2017
 Malaga;Atl. Madrid;0--2;29;Liga;2016_2017
 Real Sociedad;Leganes;1--1;29;Liga;2016_2017
 Osasuna;Ath. Bilbao;1--2;29;Liga;2016_2017
@@ -101,7 +101,7 @@ Espanyol;Betis;2--1;29;Liga;2016_2017
 Barcelone;Valence;4--2;28;Liga;2016_2017
 Gijon;Grenade;3--1;28;Liga;2016_2017
 La Corogne;Celta Vigo;0--1;28;Liga;2016_2017
-Atl. Madrid;FC Séville;3--1;28;Liga;2016_2017
+Atl. Madrid;FC Seville;3--1;28;Liga;2016_2017
 Leganes;Malaga;0--0;28;Liga;2016_2017
 Betis;Osasuna;2--0;28;Liga;2016_2017
 Alaves;Real Sociedad;1--0;28;Liga;2016_2017
@@ -115,10 +115,10 @@ La Corogne;Barcelone;2--1;27;Liga;2016_2017
 Real Sociedad;Ath. Bilbao;0--2;27;Liga;2016_2017
 Grenade;Atl. Madrid;0--1;27;Liga;2016_2017
 Malaga;Alaves;1--2;27;Liga;2016_2017
-FC Séville;Leganes;1--1;27;Liga;2016_2017
+FC Seville;Leganes;1--1;27;Liga;2016_2017
 Valence;Gijon;1--1;27;Liga;2016_2017
 Espanyol;Las Palmas;4--3;27;Liga;2016_2017
-Alaves;FC Séville;1--1;26;Liga;2016_2017
+Alaves;FC Seville;1--1;26;Liga;2016_2017
 Ath. Bilbao;Malaga;1--0;26;Liga;2016_2017
 Las Palmas;Osasuna;5--2;26;Liga;2016_2017
 Atl. Madrid;Valence;3--0;26;Liga;2016_2017
@@ -128,7 +128,7 @@ Villarreal;Espanyol;2--0;26;Liga;2016_2017
 Eibar;Real Madrid;1--4;26;Liga;2016_2017
 Leganes;Grenade;1--0;26;Liga;2016_2017
 Betis;Real Sociedad;2--3;26;Liga;2016_2017
-FC Séville;Ath. Bilbao;1--0;25;Liga;2016_2017
+FC Seville;Ath. Bilbao;1--0;25;Liga;2016_2017
 La Corogne;Atl. Madrid;1--1;25;Liga;2016_2017
 Celta Vigo;Espanyol;2--2;25;Liga;2016_2017
 Grenade;Alaves;2--1;25;Liga;2016_2017
@@ -145,7 +145,7 @@ Atl. Madrid;Barcelone;1--2;24;Liga;2016_2017
 Espanyol;Osasuna;3--0;24;Liga;2016_2017
 Eibar;Malaga;3--0;24;Liga;2016_2017
 Leganes;La Corogne;4--0;24;Liga;2016_2017
-Betis;FC Séville;1--2;24;Liga;2016_2017
+Betis;FC Seville;1--2;24;Liga;2016_2017
 Alaves;Valence;2--1;24;Liga;2016_2017
 Las Palmas;Real Sociedad;0--1;24;Liga;2016_2017
 Malaga;Las Palmas;2--1;23;Liga;2016_2017
@@ -153,14 +153,14 @@ Barcelone;Leganes;2--1;23;Liga;2016_2017
 Celta Vigo;Osasuna;3--0;23;Liga;2016_2017
 Valence;Ath. Bilbao;2--0;23;Liga;2016_2017
 Real Sociedad;Villarreal;0--1;23;Liga;2016_2017
-FC Séville;Eibar;2--0;23;Liga;2016_2017
+FC Seville;Eibar;2--0;23;Liga;2016_2017
 La Corogne;Alaves;0--1;23;Liga;2016_2017
 Real Madrid;Espanyol;2--0;23;Liga;2016_2017
 Gijon;Atl. Madrid;1--4;23;Liga;2016_2017
 Grenade;Betis;4--1;23;Liga;2016_2017
 Eibar;Grenade;4--0;22;Liga;2016_2017
 Atl. Madrid;Celta Vigo;3--2;22;Liga;2016_2017
-Las Palmas;FC Séville;0--1;22;Liga;2016_2017
+Las Palmas;FC Seville;0--1;22;Liga;2016_2017
 Leganes;Gijon;0--2;22;Liga;2016_2017
 Villarreal;Malaga;1--1;22;Liga;2016_2017
 Osasuna;Real Madrid;1--3;22;Liga;2016_2017
@@ -172,7 +172,7 @@ Grenade;Las Palmas;1--0;21;Liga;2016_2017
 La Corogne;Betis;1--1;21;Liga;2016_2017
 Real Sociedad;Osasuna;3--2;21;Liga;2016_2017
 Gijon;Alaves;2--4;21;Liga;2016_2017
-FC Séville;Villarreal;0--0;21;Liga;2016_2017
+FC Seville;Villarreal;0--0;21;Liga;2016_2017
 Valence;Eibar;0--4;21;Liga;2016_2017
 Atl. Madrid;Leganes;2--0;21;Liga;2016_2017
 Barcelone;Ath. Bilbao;3--0;21;Liga;2016_2017
@@ -180,7 +180,7 @@ Malaga;Espanyol;0--1;21;Liga;2016_2017
 Las Palmas;Valence;3--1;20;Liga;2016_2017
 Real Madrid;Real Sociedad;3--0;20;Liga;2016_2017
 Ath. Bilbao;Gijon;2--1;20;Liga;2016_2017
-Espanyol;FC Séville;3--1;20;Liga;2016_2017
+Espanyol;FC Seville;3--1;20;Liga;2016_2017
 Betis;Barcelone;1--1;20;Liga;2016_2017
 Leganes;Celta Vigo;0--2;20;Liga;2016_2017
 Eibar;La Corogne;3--1;20;Liga;2016_2017
@@ -191,14 +191,14 @@ Eibar;Barcelone;0--4;19;Liga;2016_2017
 Betis;Gijon;0--0;19;Liga;2016_2017
 Real Sociedad;Celta Vigo;1--0;19;Liga;2016_2017
 Ath. Bilbao;Atl. Madrid;2--2;19;Liga;2016_2017
-Osasuna;FC Séville;3--4;19;Liga;2016_2017
+Osasuna;FC Seville;3--4;19;Liga;2016_2017
 Villarreal;Valence;0--2;19;Liga;2016_2017
 Alaves;Leganes;2--2;19;Liga;2016_2017
 Real Madrid;Malaga;2--1;19;Liga;2016_2017
 Espanyol;Grenade;3--1;19;Liga;2016_2017
 Las Palmas;La Corogne;1--1;19;Liga;2016_2017
 Malaga;Real Sociedad;0--2;18;Liga;2016_2017
-FC Séville;Real Madrid;2--1;18;Liga;2016_2017
+FC Seville;Real Madrid;2--1;18;Liga;2016_2017
 Gijon;Eibar;2--3;18;Liga;2016_2017
 Grenade;Osasuna;1--1;18;Liga;2016_2017
 Celta Vigo;Alaves;1--0;18;Liga;2016_2017
@@ -212,7 +212,7 @@ Villarreal;Barcelone;1--1;17;Liga;2016_2017
 Celta Vigo;Malaga;3--1;17;Liga;2016_2017
 Betis;Leganes;2--0;17;Liga;2016_2017
 Ath. Bilbao;Alaves;0--0;17;Liga;2016_2017
-Real Sociedad;FC Séville;0--4;17;Liga;2016_2017
+Real Sociedad;FC Seville;0--4;17;Liga;2016_2017
 Las Palmas;Gijon;1--0;17;Liga;2016_2017
 Eibar;Atl. Madrid;0--2;17;Liga;2016_2017
 Real Madrid;Grenade;5--0;17;Liga;2016_2017
@@ -222,7 +222,7 @@ Barcelone;Espanyol;4--1;16;Liga;2016_2017
 Valence;Real Madrid;2--1;16;Liga;2016_2017
 La Corogne;Osasuna;2--0;16;Liga;2016_2017
 Leganes;Eibar;1--1;16;Liga;2016_2017
-FC Séville;Malaga;4--1;16;Liga;2016_2017
+FC Seville;Malaga;4--1;16;Liga;2016_2017
 Grenade;Real Sociedad;0--2;16;Liga;2016_2017
 Atl. Madrid;Las Palmas;1--0;16;Liga;2016_2017
 Gijon;Villarreal;1--3;16;Liga;2016_2017
@@ -230,7 +230,7 @@ Alaves;Betis;1--0;16;Liga;2016_2017
 Villarreal;Atl. Madrid;3--0;15;Liga;2016_2017
 Betis;Ath. Bilbao;1--0;15;Liga;2016_2017
 Espanyol;Gijon;2--1;15;Liga;2016_2017
-Celta Vigo;FC Séville;0--3;15;Liga;2016_2017
+Celta Vigo;FC Seville;0--3;15;Liga;2016_2017
 Eibar;Alaves;0--0;15;Liga;2016_2017
 Real Madrid;La Corogne;3--2;15;Liga;2016_2017
 Las Palmas;Leganes;1--1;15;Liga;2016_2017
@@ -246,13 +246,13 @@ Betis;Celta Vigo;3--3;14;Liga;2016_2017
 Atl. Madrid;Espanyol;0--0;14;Liga;2016_2017
 Leganes;Villarreal;0--0;14;Liga;2016_2017
 Barcelone;Real Madrid;1--1;14;Liga;2016_2017
-Grenade;FC Séville;2--1;14;Liga;2016_2017
+Grenade;FC Seville;2--1;14;Liga;2016_2017
 Las Palmas;Ath. Bilbao;3--1;13;Liga;2016_2017
 Real Sociedad;Barcelone;1--1;13;Liga;2016_2017
 Celta Vigo;Grenade;3--1;13;Liga;2016_2017
 Osasuna;Atl. Madrid;0--3;13;Liga;2016_2017
 Villarreal;Alaves;0--2;13;Liga;2016_2017
-FC Séville;Valence;2--1;13;Liga;2016_2017
+FC Seville;Valence;2--1;13;Liga;2016_2017
 Espanyol;Leganes;3--0;13;Liga;2016_2017
 Real Madrid;Gijon;2--1;13;Liga;2016_2017
 Malaga;La Corogne;4--3;13;Liga;2016_2017
@@ -265,9 +265,9 @@ Alaves;Espanyol;0--1;12;Liga;2016_2017
 Atl. Madrid;Real Madrid;0--3;12;Liga;2016_2017
 Eibar;Celta Vigo;1--0;12;Liga;2016_2017
 Barcelone;Malaga;0--0;12;Liga;2016_2017
-La Corogne;FC Séville;2--3;12;Liga;2016_2017
+La Corogne;FC Seville;2--3;12;Liga;2016_2017
 Betis;Las Palmas;2--0;12;Liga;2016_2017
-FC Séville;Barcelone;1--2;11;Liga;2016_2017
+FC Seville;Barcelone;1--2;11;Liga;2016_2017
 Villarreal;Betis;2--0;11;Liga;2016_2017
 Celta Vigo;Valence;2--1;11;Liga;2016_2017
 Espanyol;Ath. Bilbao;0--0;11;Liga;2016_2017
@@ -285,12 +285,12 @@ Eibar;Villarreal;2--1;10;Liga;2016_2017
 Barcelone;Grenade;1--0;10;Liga;2016_2017
 Atl. Madrid;Malaga;4--2;10;Liga;2016_2017
 Alaves;Real Madrid;1--4;10;Liga;2016_2017
-Gijon;FC Séville;1--1;10;Liga;2016_2017
+Gijon;FC Seville;1--1;10;Liga;2016_2017
 Leganes;Real Sociedad;0--2;10;Liga;2016_2017
 Real Madrid;Ath. Bilbao;2--1;9;Liga;2016_2017
 Malaga;Leganes;4--0;9;Liga;2016_2017
 Villarreal;Las Palmas;2--1;9;Liga;2016_2017
-FC Séville;Atl. Madrid;1--0;9;Liga;2016_2017
+FC Seville;Atl. Madrid;1--0;9;Liga;2016_2017
 Celta Vigo;La Corogne;4--1;9;Liga;2016_2017
 Grenade;Gijon;0--0;9;Liga;2016_2017
 Real Sociedad;Alaves;3--0;9;Liga;2016_2017
@@ -305,7 +305,7 @@ Alaves;Malaga;1--1;8;Liga;2016_2017
 Betis;Real Madrid;1--6;8;Liga;2016_2017
 Atl. Madrid;Grenade;7--1;8;Liga;2016_2017
 Barcelone;La Corogne;4--0;8;Liga;2016_2017
-Leganes;FC Séville;2--3;8;Liga;2016_2017
+Leganes;FC Seville;2--3;8;Liga;2016_2017
 Las Palmas;Espanyol;0--0;8;Liga;2016_2017
 Celta Vigo;Barcelone;4--3;7;Liga;2016_2017
 Espanyol;Villarreal;0--0;7;Liga;2016_2017
@@ -314,7 +314,7 @@ Real Madrid;Eibar;1--1;7;Liga;2016_2017
 Valence;Atl. Madrid;0--2;7;Liga;2016_2017
 La Corogne;Gijon;2--1;7;Liga;2016_2017
 Osasuna;Las Palmas;2--2;7;Liga;2016_2017
-FC Séville;Alaves;2--1;7;Liga;2016_2017
+FC Seville;Alaves;2--1;7;Liga;2016_2017
 Grenade;Leganes;0--1;7;Liga;2016_2017
 Real Sociedad;Betis;1--0;7;Liga;2016_2017
 Alaves;Grenade;3--1;6;Liga;2016_2017
@@ -323,7 +323,7 @@ Villarreal;Osasuna;3--1;6;Liga;2016_2017
 Atl. Madrid;La Corogne;1--0;6;Liga;2016_2017
 Leganes;Valence;1--2;6;Liga;2016_2017
 Las Palmas;Real Madrid;2--2;6;Liga;2016_2017
-Ath. Bilbao;FC Séville;3--1;6;Liga;2016_2017
+Ath. Bilbao;FC Seville;3--1;6;Liga;2016_2017
 Gijon;Barcelone;0--5;6;Liga;2016_2017
 Eibar;Real Sociedad;2--0;6;Liga;2016_2017
 Betis;Malaga;1--0;6;Liga;2016_2017
@@ -335,7 +335,7 @@ Grenade;Ath. Bilbao;1--2;5;Liga;2016_2017
 Real Sociedad;Las Palmas;4--1;5;Liga;2016_2017
 Celta Vigo;Gijon;2--1;5;Liga;2016_2017
 Real Madrid;Villarreal;1--1;5;Liga;2016_2017
-FC Séville;Betis;1--0;5;Liga;2016_2017
+FC Seville;Betis;1--0;5;Liga;2016_2017
 Malaga;Eibar;2--1;5;Liga;2016_2017
 Alaves;La Corogne;0--0;4;Liga;2016_2017
 Espanyol;Real Madrid;0--2;4;Liga;2016_2017
@@ -343,7 +343,7 @@ Villarreal;Real Sociedad;2--1;4;Liga;2016_2017
 Ath. Bilbao;Valence;2--1;4;Liga;2016_2017
 Osasuna;Celta Vigo;0--0;4;Liga;2016_2017
 Las Palmas;Malaga;1--0;4;Liga;2016_2017
-Eibar;FC Séville;1--1;4;Liga;2016_2017
+Eibar;FC Seville;1--1;4;Liga;2016_2017
 Atl. Madrid;Gijon;5--0;4;Liga;2016_2017
 Leganes;Barcelone;1--5;4;Liga;2016_2017
 Betis;Grenade;2--2;4;Liga;2016_2017
@@ -352,12 +352,12 @@ Grenade;Eibar;1--2;3;Liga;2016_2017
 Valence;Betis;2--3;3;Liga;2016_2017
 Gijon;Leganes;2--1;3;Liga;2016_2017
 Barcelone;Alaves;1--2;3;Liga;2016_2017
-FC Séville;Las Palmas;2--1;3;Liga;2016_2017
+FC Seville;Las Palmas;2--1;3;Liga;2016_2017
 Malaga;Villarreal;0--2;3;Liga;2016_2017
 Real Madrid;Osasuna;5--2;3;Liga;2016_2017
 Celta Vigo;Atl. Madrid;0--4;3;Liga;2016_2017
 Real Sociedad;Espanyol;1--1;3;Liga;2016_2017
-Villarreal;FC Séville;0--0;2;Liga;2016_2017
+Villarreal;FC Seville;0--0;2;Liga;2016_2017
 Ath. Bilbao;Barcelone;0--1;2;Liga;2016_2017
 Alaves;Gijon;0--0;2;Liga;2016_2017
 Las Palmas;Grenade;5--1;2;Liga;2016_2017
@@ -372,7 +372,7 @@ Celta Vigo;Leganes;0--1;1;Liga;2016_2017
 Atl. Madrid;Alaves;1--1;1;Liga;2016_2017
 Real Sociedad;Real Madrid;0--3;1;Liga;2016_2017
 Gijon;Ath. Bilbao;2--1;1;Liga;2016_2017
-FC Séville;Espanyol;6--4;1;Liga;2016_2017
+FC Seville;Espanyol;6--4;1;Liga;2016_2017
 Grenade;Villarreal;1--1;1;Liga;2016_2017
 Barcelone;Betis;6--2;1;Liga;2016_2017
 La Corogne;Eibar;2--1;1;Liga;2016_2017
