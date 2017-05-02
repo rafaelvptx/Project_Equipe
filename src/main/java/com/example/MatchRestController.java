@@ -103,6 +103,7 @@ class MatchRestController {
 		List<Resultat> resultats = new ArrayList<>();
 		this.matchRepository.findByLigueAndSaisonAndJournee(league, season, journee).forEach(m->{
 			resultats.add(new Resultat(
+					(int) m.getJournee(),
 					(String) m.getNomEquipeHome(),
 					(String) m.getEquipeAway(),
 					(int) m.getScoreHome(),
@@ -119,6 +120,7 @@ class MatchRestController {
 		List<Resultat> resultats = new ArrayList<>();
 		this.matchRepository.findByLigueAndSaisonAndEquipe(league, season, equipe).forEach(m->{
 			resultats.add(new Resultat(
+					(int) m.getJournee(),
 					(String) m.getNomEquipeHome(),
 					(String) m.getEquipeAway(),
 					(int) m.getScoreHome(),

@@ -3,6 +3,7 @@ package com.example;
 
 public class Resultat {
 
+	private int day;
 	private String teamHome;
 	private String teamAway;
 	private int scoreHome;
@@ -10,7 +11,8 @@ public class Resultat {
 	private float chanceWinHome;
 	private float chanceWinAway;
 
-    public Resultat(String nomEquipeHome, String equipeAdv, int scoreHome, int scoreAway, float chanceWinHome, float chanceWinAway) {
+    public Resultat(int day, String nomEquipeHome, String equipeAdv, int scoreHome, int scoreAway, float chanceWinHome, float chanceWinAway) {
+    	this.day = day;
     	this.teamHome = nomEquipeHome;
         this.teamAway = equipeAdv;
         this.scoreHome = scoreHome;
@@ -18,6 +20,14 @@ public class Resultat {
         this.chanceWinHome = chanceWinHome;
         this.chanceWinAway = chanceWinAway;
     }
+
+	public int getDay() {
+		return day;
+	}
+
+	public void setDay(int day) {
+		this.day = day;
+	}
 
 	public String getTeamHome() {
 		return teamHome;
