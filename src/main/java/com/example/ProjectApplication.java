@@ -8,6 +8,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
+import org.springframework.data.domain.PageRequest;
 
 import csv.CsvReader;
 
@@ -68,7 +69,7 @@ public class ProjectApplication {
 		//indiceLieu eqA
 		float pourPerfLieuA = calculPourcentagePerformance(matchRepository.findByJourneeBeforeHome(saison, journee, teamHome), teamHome);	
 		//indiceForme eqA
-		float pourPerfFormeA = calculPourcentagePerformance(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee-5,journee-1, teamHome), teamHome);
+		float pourPerfFormeA = calculPourcentagePerformance(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee, teamHome, new PageRequest(0,5)), teamHome);
 		//indiceConfrontation eqA
 		float pourPerfConfrA = calculPourcentagePerformance(matchRepository.findConfrontation(ligue, saison, teamHome, teamAway), teamHome);
 
@@ -77,7 +78,7 @@ public class ProjectApplication {
 		//IndiceLieu eqB
 		float pourPerfLieuB = calculPourcentagePerformance(matchRepository.findByJourneeBeforeAway(saison, journee, teamAway), teamAway);
 		//indiceForme eqB
-		float pourPerfFormeB = calculPourcentagePerformance(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee-5,journee-1, teamAway), teamAway);
+		float pourPerfFormeB = calculPourcentagePerformance(matchRepository.findBySaisonAndJourneeAndEquipes(saison, journee, teamAway, new PageRequest(0,5)), teamAway);
 		//indiceConfrontation eqB
 		float pourPerfConfrB = calculPourcentagePerformance(matchRepository.findConfrontation(ligue, saison, teamAway, teamHome), teamAway);
 

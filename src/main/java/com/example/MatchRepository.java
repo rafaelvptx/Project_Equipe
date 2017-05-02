@@ -1,7 +1,9 @@
 package com.example;
 
 import java.util.Collection;
+import java.util.List;
 
+import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
@@ -20,17 +22,18 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
      */
     
     @Query("select m from Match m " +
-            "where ( m.saison = ?1 and m.journee between ?2 and ?3 and m.nomEquipeHome = ?4 ) "
-            +  "or ( m.saison = ?1 and m.journee between ?2 and ?3 and m.equipeAway = ?4 )")
-    Collection<Match> findBySaisonAndJourneeAndEquipes(String saison, int debut, int fin, String nom);
+            "where ( m.saison = ?1 and m.journee < ?2 and m.nomEquipeHome = ?3 and m.resultat!='Non joue' ) "
+            +  "or ( m.saison = ?1 and m.journee < ?2 and m.equipeAway = ?3 and m.resultat!='Non joue' )"
+            + "ORDER BY m.journee DESC")
+    List<Match> findBySaisonAndJourneeAndEquipes(String saison, int journee, String nom, Pageable page);
     
     @Query("select m from Match m " +
-    		"where (m.saison = ?1 and m.journee < ?2 and m.nomEquipeHome = ?3) " +
-    		"or (m.saison = ?1 and m.journee < ?2 and m.equipeAway = ?3)")
+    		"where (m.saison = ?1 and m.journee < ?2 and m.nomEquipeHome = ?3 and m.resultat!='Non joue') " +
+    		"or (m.saison = ?1 and m.journee < ?2 and m.equipeAway = ?3 and m.resultat!='Non joue')")
     Collection<Match> findByJourneeBefore(String saison,int journee, String nom);
     
     @Query("select m from Match m " +
-    		"where m.saison = ?1 and m.journee < ?2 and m.nomEquipeHome = ?3")
+    		"where m.saison = ?1 and m.journee < ?2 and m.nomEquipeHome = ?3 and m.resultat!='Non joue'")
     Collection<Match> findByJourneeBeforeHome(String saison, int journee, String nom);
     
     @Query("select m from Match m " +

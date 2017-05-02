@@ -13,9 +13,7 @@ import com.opencsv.CSVReader;
 public class CsvReader {
 
 	private final static String SEPARATOR = ";";
-	private final static String RESSOURCES_CHEMIN = "src/main/resources/";
 	private final static File RESSOURCES = new File("src/main/resources/csv/");
-	private final static String TEST_CSV = "test.csv";
 
 
 	/**
@@ -32,8 +30,6 @@ public class CsvReader {
 		List<Match> listMatchsByLigue = new ArrayList<>();
 
 		File[] listF = RESSOURCES.listFiles();
-
-		//		File File_test = new File(RESSOURCES_CHEMIN + TEST_CSV);
 
 		for (File f : listF){
 
@@ -59,6 +55,10 @@ public class CsvReader {
 							}else{
 								match.setResultat("Nul");
 							}
+						}else{
+							match.setScoreHome(-1);
+							match.setScoreAway(-1);
+							match.setResultat("Non joue");
 						}
 
 						match.setJournee(Integer.parseInt(elements[3]));
