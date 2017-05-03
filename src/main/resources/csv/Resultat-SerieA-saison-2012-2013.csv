@@ -1,0 +1,380 @@
+AS Rome;Naples;2--1;38;Serie A;2012_2013
+Cagliari;Lazio;1--0;38;Serie A;2012_2013
+Inter;Udinese;2--5;38;Serie A;2012_2013
+Palerme;Parma;1--3;38;Serie A;2012_2013
+Pescara;Fiorentina;1--5;38;Serie A;2012_2013
+Siena;AC Milan;1--2;38;Serie A;2012_2013
+Torino;Catania;2--2;38;Serie A;2012_2013
+Atalanta;Chievo;2--2;38;Serie A;2012_2013
+Bologne;Genoa;0--0;38;Serie A;2012_2013
+Sampdoria;Juventus;3--2;38;Serie A;2012_2013
+AC Milan;AS Rome;0--0;37;Serie A;2012_2013
+Parma;Bologne;0--2;37;Serie A;2012_2013
+Lazio;Sampdoria;2--0;37;Serie A;2012_2013
+Naples;Siena;2--1;37;Serie A;2012_2013
+Udinese;Atalanta;2--1;37;Serie A;2012_2013
+Chievo;Torino;1--1;37;Serie A;2012_2013
+Fiorentina;Palerme;1--0;37;Serie A;2012_2013
+Genoa;Inter;0--0;37;Serie A;2012_2013
+Catania;Pescara;1--0;37;Serie A;2012_2013
+Juventus;Cagliari;1--1;37;Serie A;2012_2013
+Atalanta;Juventus;0--1;36;Serie A;2012_2013
+Bologne;Naples;0--3;36;Serie A;2012_2013
+Cagliari;Parma;0--1;36;Serie A;2012_2013
+Inter;Lazio;1--3;36;Serie A;2012_2013
+Palerme;Udinese;2--3;36;Serie A;2012_2013
+Sampdoria;Catania;1--1;36;Serie A;2012_2013
+Siena;Fiorentina;0--1;36;Serie A;2012_2013
+Torino;Genoa;0--0;36;Serie A;2012_2013
+Pescara;AC Milan;0--4;36;Serie A;2012_2013
+AS Rome;Chievo;0--1;36;Serie A;2012_2013
+Naples;Inter;3--1;35;Serie A;2012_2013
+AC Milan;Torino;1--0;35;Serie A;2012_2013
+Catania;Siena;3--0;35;Serie A;2012_2013
+Genoa;Pescara;4--1;35;Serie A;2012_2013
+Juventus;Palerme;1--0;35;Serie A;2012_2013
+Lazio;Bologne;6--0;35;Serie A;2012_2013
+Parma;Atalanta;2--0;35;Serie A;2012_2013
+Udinese;Sampdoria;3--1;35;Serie A;2012_2013
+Fiorentina;AS Rome;0--1;35;Serie A;2012_2013
+Chievo;Cagliari;0--0;35;Serie A;2012_2013
+AC Milan;Catania;4--2;34;Serie A;2012_2013
+AS Rome;Siena;4--0;34;Serie A;2012_2013
+Chievo;Genoa;0--1;34;Serie A;2012_2013
+Palerme;Inter;1--0;34;Serie A;2012_2013
+Parma;Lazio;0--0;34;Serie A;2012_2013
+Sampdoria;Fiorentina;0--3;34;Serie A;2012_2013
+Torino;Juventus;0--2;34;Serie A;2012_2013
+Pescara;Naples;0--3;34;Serie A;2012_2013
+Atalanta;Bologne;1--1;34;Serie A;2012_2013
+Cagliari;Udinese;0--1;34;Serie A;2012_2013
+Juventus;AC Milan;1--0;33;Serie A;2012_2013
+AS Rome;Pescara;1--1;33;Serie A;2012_2013
+Bologne;Sampdoria;1--1;33;Serie A;2012_2013
+Catania;Palerme;1--1;33;Serie A;2012_2013
+Fiorentina;Torino;4--3;33;Serie A;2012_2013
+Naples;Cagliari;3--2;33;Serie A;2012_2013
+Siena;Chievo;0--1;33;Serie A;2012_2013
+Inter;Parma;1--0;33;Serie A;2012_2013
+Udinese;Lazio;1--0;33;Serie A;2012_2013
+Genoa;Atalanta;1--1;33;Serie A;2012_2013
+Lazio;Juventus;0--2;32;Serie A;2012_2013
+AC Milan;Naples;1--1;32;Serie A;2012_2013
+Cagliari;Inter;2--0;32;Serie A;2012_2013
+Chievo;Catania;0--0;32;Serie A;2012_2013
+Genoa;Sampdoria;1--1;32;Serie A;2012_2013
+Parma;Udinese;0--3;32;Serie A;2012_2013
+Torino;AS Rome;1--2;32;Serie A;2012_2013
+Palerme;Bologne;1--1;32;Serie A;2012_2013
+Atalanta;Fiorentina;0--2;32;Serie A;2012_2013
+Pescara;Siena;2--3;32;Serie A;2012_2013
+AS Rome;Lazio;1--1;31;Serie A;2012_2013
+Inter;Atalanta;3--4;31;Serie A;2012_2013
+Naples;Genoa;2--0;31;Serie A;2012_2013
+Catania;Cagliari;0--0;31;Serie A;2012_2013
+Sampdoria;Palerme;1--3;31;Serie A;2012_2013
+Siena;Parma;0--0;31;Serie A;2012_2013
+Udinese;Chievo;3--1;31;Serie A;2012_2013
+Fiorentina;AC Milan;2--2;31;Serie A;2012_2013
+Bologne;Torino;2--2;31;Serie A;2012_2013
+Juventus;Pescara;2--1;31;Serie A;2012_2013
+Torino;Naples;3--5;30;Serie A;2012_2013
+Chievo;AC Milan;0--1;30;Serie A;2012_2013
+Atalanta;Sampdoria;0--0;30;Serie A;2012_2013
+Cagliari;Fiorentina;2--1;30;Serie A;2012_2013
+Genoa;Siena;2--2;30;Serie A;2012_2013
+Inter;Juventus;1--2;30;Serie A;2012_2013
+Lazio;Catania;2--1;30;Serie A;2012_2013
+Palerme;AS Rome;2--0;30;Serie A;2012_2013
+Parma;Pescara;3--0;30;Serie A;2012_2013
+Udinese;Bologne;0--0;30;Serie A;2012_2013
+AS Rome;Parma;2--0;29;Serie A;2012_2013
+Torino;Lazio;1--0;29;Serie A;2012_2013
+Sampdoria;Inter;0--2;29;Serie A;2012_2013
+AC Milan;Palerme;2--0;29;Serie A;2012_2013
+Fiorentina;Genoa;3--2;29;Serie A;2012_2013
+Naples;Atalanta;3--2;29;Serie A;2012_2013
+Pescara;Chievo;0--2;29;Serie A;2012_2013
+Siena;Cagliari;0--0;29;Serie A;2012_2013
+Bologne;Juventus;0--2;29;Serie A;2012_2013
+Catania;Udinese;3--1;29;Serie A;2012_2013
+Inter;Bologne;0--1;28;Serie A;2012_2013
+Lazio;Fiorentina;0--2;28;Serie A;2012_2013
+Cagliari;Sampdoria;3--1;28;Serie A;2012_2013
+Chievo;Naples;2--0;28;Serie A;2012_2013
+Juventus;Catania;1--0;28;Serie A;2012_2013
+Palerme;Siena;1--2;28;Serie A;2012_2013
+Parma;Torino;4--1;28;Serie A;2012_2013
+Atalanta;Pescara;2--1;28;Serie A;2012_2013
+Udinese;AS Rome;1--1;28;Serie A;2012_2013
+Genoa;AC Milan;0--2;28;Serie A;2012_2013
+AS Rome;Genoa;3--1;27;Serie A;2012_2013
+Bologne;Cagliari;3--0;27;Serie A;2012_2013
+Catania;Inter;2--3;27;Serie A;2012_2013
+Fiorentina;Chievo;2--1;27;Serie A;2012_2013
+Pescara;Udinese;0--1;27;Serie A;2012_2013
+Sampdoria;Parma;1--0;27;Serie A;2012_2013
+Siena;Atalanta;0--2;27;Serie A;2012_2013
+Torino;Palerme;0--0;27;Serie A;2012_2013
+AC Milan;Lazio;3--0;27;Serie A;2012_2013
+Naples;Juventus;1--1;27;Serie A;2012_2013
+Bologne;Fiorentina;2--1;26;Serie A;2012_2013
+Lazio;Pescara;2--0;26;Serie A;2012_2013
+Udinese;Naples;0--0;26;Serie A;2012_2013
+Inter;AC Milan;1--1;26;Serie A;2012_2013
+Atalanta;AS Rome;2--3;26;Serie A;2012_2013
+Cagliari;Torino;4--3;26;Serie A;2012_2013
+Juventus;Siena;3--0;26;Serie A;2012_2013
+Parma;Catania;1--2;26;Serie A;2012_2013
+Sampdoria;Chievo;2--0;26;Serie A;2012_2013
+Palerme;Genoa;0--0;26;Serie A;2012_2013
+Siena;Lazio;3--0;25;Serie A;2012_2013
+Fiorentina;Inter;4--1;25;Serie A;2012_2013
+Catania;Bologne;1--0;25;Serie A;2012_2013
+Genoa;Udinese;1--0;25;Serie A;2012_2013
+Naples;Sampdoria;0--0;25;Serie A;2012_2013
+Pescara;Cagliari;0--2;25;Serie A;2012_2013
+Torino;Atalanta;2--1;25;Serie A;2012_2013
+AS Rome;Juventus;1--0;25;Serie A;2012_2013
+Chievo;Palerme;1--1;25;Serie A;2012_2013
+AC Milan;Parma;2--1;25;Serie A;2012_2013
+Inter;Chievo;3--1;24;Serie A;2012_2013
+Atalanta;Catania;0--0;24;Serie A;2012_2013
+Bologne;Siena;1--1;24;Serie A;2012_2013
+Cagliari;AC Milan;1--1;24;Serie A;2012_2013
+Palerme;Pescara;1--1;24;Serie A;2012_2013
+Sampdoria;AS Rome;3--1;24;Serie A;2012_2013
+Udinese;Torino;1--0;24;Serie A;2012_2013
+Parma;Genoa;0--0;24;Serie A;2012_2013
+Lazio;Naples;1--1;24;Serie A;2012_2013
+Juventus;Fiorentina;2--0;24;Serie A;2012_2013
+AC Milan;Udinese;2--1;23;Serie A;2012_2013
+Fiorentina;Parma;2--0;23;Serie A;2012_2013
+Genoa;Lazio;3--2;23;Serie A;2012_2013
+Palerme;Atalanta;1--2;23;Serie A;2012_2013
+Pescara;Bologne;2--3;23;Serie A;2012_2013
+Siena;Inter;3--1;23;Serie A;2012_2013
+Chievo;Juventus;1--2;23;Serie A;2012_2013
+Naples;Catania;2--0;23;Serie A;2012_2013
+Torino;Sampdoria;0--0;23;Serie A;2012_2013
+AS Rome;Cagliari;2--4;23;Serie A;2012_2013
+Inter;Torino;2--2;22;Serie A;2012_2013
+Atalanta;AC Milan;0--1;22;Serie A;2012_2013
+Cagliari;Palerme;1--1;22;Serie A;2012_2013
+Catania;Fiorentina;2--1;22;Serie A;2012_2013
+Parma;Naples;1--2;22;Serie A;2012_2013
+Sampdoria;Pescara;6--0;22;Serie A;2012_2013
+Udinese;Siena;1--0;22;Serie A;2012_2013
+Bologne;AS Rome;3--3;22;Serie A;2012_2013
+Juventus;Genoa;1--1;22;Serie A;2012_2013
+Lazio;Chievo;0--1;22;Serie A;2012_2013
+AS Rome;Inter;1--1;21;Serie A;2012_2013
+Atalanta;Cagliari;1--1;21;Serie A;2012_2013
+AC Milan;Bologne;2--1;21;Serie A;2012_2013
+Chievo;Parma;1--1;21;Serie A;2012_2013
+Genoa;Catania;0--2;21;Serie A;2012_2013
+Pescara;Torino;0--2;21;Serie A;2012_2013
+Siena;Sampdoria;1--0;21;Serie A;2012_2013
+Fiorentina;Naples;1--1;21;Serie A;2012_2013
+Juventus;Udinese;4--0;21;Serie A;2012_2013
+Palerme;Lazio;2--2;21;Serie A;2012_2013
+Sampdoria;AC Milan;0--0;20;Serie A;2012_2013
+Cagliari;Genoa;2--1;20;Serie A;2012_2013
+Catania;AS Rome;1--0;20;Serie A;2012_2013
+Lazio;Atalanta;2--0;20;Serie A;2012_2013
+Naples;Palerme;3--0;20;Serie A;2012_2013
+Parma;Juventus;1--1;20;Serie A;2012_2013
+Udinese;Fiorentina;3--1;20;Serie A;2012_2013
+Torino;Siena;3--2;20;Serie A;2012_2013
+Inter;Pescara;2--0;20;Serie A;2012_2013
+Bologne;Chievo;4--0;20;Serie A;2012_2013
+Naples;AS Rome;4--1;19;Serie A;2012_2013
+AC Milan;Siena;2--1;19;Serie A;2012_2013
+Chievo;Atalanta;1--0;19;Serie A;2012_2013
+Fiorentina;Pescara;0--2;19;Serie A;2012_2013
+Genoa;Bologne;2--0;19;Serie A;2012_2013
+Juventus;Sampdoria;1--2;19;Serie A;2012_2013
+Parma;Palerme;2--1;19;Serie A;2012_2013
+Udinese;Inter;3--0;19;Serie A;2012_2013
+Lazio;Cagliari;2--1;19;Serie A;2012_2013
+Catania;Torino;0--0;19;Serie A;2012_2013
+AS Rome;AC Milan;4--2;18;Serie A;2012_2013
+Atalanta;Udinese;1--1;18;Serie A;2012_2013
+Bologne;Parma;1--2;18;Serie A;2012_2013
+Palerme;Fiorentina;0--3;18;Serie A;2012_2013
+Sampdoria;Lazio;0--1;18;Serie A;2012_2013
+Siena;Naples;0--2;18;Serie A;2012_2013
+Torino;Chievo;2--0;18;Serie A;2012_2013
+Inter;Genoa;1--1;18;Serie A;2012_2013
+Cagliari;Juventus;1--3;18;Serie A;2012_2013
+Pescara;Catania;2--1;18;Serie A;2012_2013
+Naples;Bologne;2--3;17;Serie A;2012_2013
+AC Milan;Pescara;4--1;17;Serie A;2012_2013
+Catania;Sampdoria;3--1;17;Serie A;2012_2013
+Chievo;AS Rome;1--0;17;Serie A;2012_2013
+Genoa;Torino;1--1;17;Serie A;2012_2013
+Juventus;Atalanta;3--0;17;Serie A;2012_2013
+Parma;Cagliari;4--1;17;Serie A;2012_2013
+Fiorentina;Siena;4--1;17;Serie A;2012_2013
+Lazio;Inter;1--0;17;Serie A;2012_2013
+Udinese;Palerme;1--1;17;Serie A;2012_2013
+Bologne;Lazio;0--0;16;Serie A;2012_2013
+Sampdoria;Udinese;0--2;16;Serie A;2012_2013
+Inter;Naples;2--1;16;Serie A;2012_2013
+Cagliari;Chievo;0--2;16;Serie A;2012_2013
+Palerme;Juventus;0--1;16;Serie A;2012_2013
+Pescara;Genoa;2--0;16;Serie A;2012_2013
+Siena;Catania;1--3;16;Serie A;2012_2013
+Torino;AC Milan;2--4;16;Serie A;2012_2013
+AS Rome;Fiorentina;4--2;16;Serie A;2012_2013
+Atalanta;Parma;2--1;16;Serie A;2012_2013
+Fiorentina;Sampdoria;2--2;15;Serie A;2012_2013
+Bologne;Atalanta;2--1;15;Serie A;2012_2013
+Genoa;Chievo;2--4;15;Serie A;2012_2013
+Inter;Palerme;1--0;15;Serie A;2012_2013
+Lazio;Parma;2--1;15;Serie A;2012_2013
+Siena;AS Rome;1--3;15;Serie A;2012_2013
+Udinese;Cagliari;4--1;15;Serie A;2012_2013
+Naples;Pescara;5--1;15;Serie A;2012_2013
+Juventus;Torino;3--0;15;Serie A;2012_2013
+Catania;AC Milan;1--3;15;Serie A;2012_2013
+Lazio;Udinese;3--0;14;Serie A;2012_2013
+Parma;Inter;1--0;14;Serie A;2012_2013
+Cagliari;Naples;0--1;14;Serie A;2012_2013
+AC Milan;Juventus;1--0;14;Serie A;2012_2013
+Atalanta;Genoa;0--1;14;Serie A;2012_2013
+Chievo;Siena;0--0;14;Serie A;2012_2013
+Pescara;AS Rome;0--1;14;Serie A;2012_2013
+Sampdoria;Bologne;1--0;14;Serie A;2012_2013
+Torino;Fiorentina;2--2;14;Serie A;2012_2013
+Palerme;Catania;3--1;14;Serie A;2012_2013
+AS Rome;Torino;2--0;13;Serie A;2012_2013
+Sampdoria;Genoa;3--1;13;Serie A;2012_2013
+Bologne;Palerme;3--0;13;Serie A;2012_2013
+Catania;Chievo;2--1;13;Serie A;2012_2013
+Fiorentina;Atalanta;4--1;13;Serie A;2012_2013
+Inter;Cagliari;2--2;13;Serie A;2012_2013
+Siena;Pescara;1--0;13;Serie A;2012_2013
+Udinese;Parma;2--2;13;Serie A;2012_2013
+Naples;AC Milan;2--2;13;Serie A;2012_2013
+Juventus;Lazio;0--0;13;Serie A;2012_2013
+Atalanta;Inter;3--2;12;Serie A;2012_2013
+AC Milan;Fiorentina;1--3;12;Serie A;2012_2013
+Chievo;Udinese;2--2;12;Serie A;2012_2013
+Genoa;Naples;2--4;12;Serie A;2012_2013
+Lazio;AS Rome;3--2;12;Serie A;2012_2013
+Parma;Siena;0--0;12;Serie A;2012_2013
+Torino;Bologne;1--0;12;Serie A;2012_2013
+Palerme;Sampdoria;2--0;12;Serie A;2012_2013
+Pescara;Juventus;1--6;12;Serie A;2012_2013
+Cagliari;Catania;0--0;12;Serie A;2012_2013
+AS Rome;Palerme;4--1;11;Serie A;2012_2013
+Bologne;Udinese;1--1;11;Serie A;2012_2013
+Catania;Lazio;4--0;11;Serie A;2012_2013
+Fiorentina;Cagliari;4--1;11;Serie A;2012_2013
+Naples;Torino;1--1;11;Serie A;2012_2013
+Sampdoria;Atalanta;1--2;11;Serie A;2012_2013
+Siena;Genoa;1--0;11;Serie A;2012_2013
+Pescara;Parma;2--0;11;Serie A;2012_2013
+Juventus;Inter;1--3;11;Serie A;2012_2013
+AC Milan;Chievo;5--1;11;Serie A;2012_2013
+Genoa;Fiorentina;0--1;10;Serie A;2012_2013
+Atalanta;Naples;1--0;10;Serie A;2012_2013
+Cagliari;Siena;4--2;10;Serie A;2012_2013
+Chievo;Pescara;2--0;10;Serie A;2012_2013
+Inter;Sampdoria;3--2;10;Serie A;2012_2013
+Juventus;Bologne;2--1;10;Serie A;2012_2013
+Lazio;Torino;1--1;10;Serie A;2012_2013
+Parma;AS Rome;3--2;10;Serie A;2012_2013
+Udinese;Catania;2--2;10;Serie A;2012_2013
+Palerme;AC Milan;2--2;10;Serie A;2012_2013
+AS Rome;Udinese;2--3;9;Serie A;2012_2013
+Naples;Chievo;1--0;9;Serie A;2012_2013
+Bologne;Inter;1--3;9;Serie A;2012_2013
+Fiorentina;Lazio;2--0;9;Serie A;2012_2013
+Pescara;Atalanta;0--0;9;Serie A;2012_2013
+Sampdoria;Cagliari;0--1;9;Serie A;2012_2013
+Torino;Parma;1--3;9;Serie A;2012_2013
+Catania;Juventus;0--1;9;Serie A;2012_2013
+AC Milan;Genoa;1--0;9;Serie A;2012_2013
+Siena;Palerme;0--0;9;Serie A;2012_2013
+Genoa;AS Rome;2--4;8;Serie A;2012_2013
+Atalanta;Siena;2--1;8;Serie A;2012_2013
+Chievo;Fiorentina;1--1;8;Serie A;2012_2013
+Inter;Catania;2--0;8;Serie A;2012_2013
+Palerme;Torino;0--0;8;Serie A;2012_2013
+Parma;Sampdoria;2--1;8;Serie A;2012_2013
+Udinese;Pescara;1--0;8;Serie A;2012_2013
+Cagliari;Bologne;1--0;8;Serie A;2012_2013
+Lazio;AC Milan;3--2;8;Serie A;2012_2013
+Juventus;Naples;2--0;8;Serie A;2012_2013
+AC Milan;Inter;0--1;7;Serie A;2012_2013
+Naples;Udinese;2--1;7;Serie A;2012_2013
+Catania;Parma;2--0;7;Serie A;2012_2013
+Fiorentina;Bologne;1--0;7;Serie A;2012_2013
+Pescara;Lazio;0--3;7;Serie A;2012_2013
+Siena;Juventus;1--2;7;Serie A;2012_2013
+Torino;Cagliari;0--1;7;Serie A;2012_2013
+AS Rome;Atalanta;2--0;7;Serie A;2012_2013
+Genoa;Palerme;1--1;7;Serie A;2012_2013
+Chievo;Sampdoria;2--1;7;Serie A;2012_2013
+Inter;Fiorentina;2--1;6;Serie A;2012_2013
+Atalanta;Torino;1--5;6;Serie A;2012_2013
+Bologne;Catania;4--0;6;Serie A;2012_2013
+Cagliari;Pescara;1--2;6;Serie A;2012_2013
+Lazio;Siena;2--1;6;Serie A;2012_2013
+Palerme;Chievo;4--1;6;Serie A;2012_2013
+Sampdoria;Naples;0--1;6;Serie A;2012_2013
+Udinese;Genoa;0--0;6;Serie A;2012_2013
+Juventus;AS Rome;4--1;6;Serie A;2012_2013
+Parma;AC Milan;1--1;6;Serie A;2012_2013
+Siena;Bologne;1--0;5;Serie A;2012_2013
+AC Milan;Cagliari;2--0;5;Serie A;2012_2013
+AS Rome;Sampdoria;1--1;5;Serie A;2012_2013
+Catania;Atalanta;2--1;5;Serie A;2012_2013
+Chievo;Inter;0--2;5;Serie A;2012_2013
+Genoa;Parma;1--1;5;Serie A;2012_2013
+Naples;Lazio;3--0;5;Serie A;2012_2013
+Torino;Udinese;0--0;5;Serie A;2012_2013
+Pescara;Palerme;1--0;5;Serie A;2012_2013
+Fiorentina;Juventus;0--0;5;Serie A;2012_2013
+Lazio;Genoa;0--1;4;Serie A;2012_2013
+Atalanta;Palerme;1--0;4;Serie A;2012_2013
+Bologne;Pescara;1--1;4;Serie A;2012_2013
+Cagliari;AS Rome;0--3;4;Serie A;2012_2013
+Catania;Naples;0--0;4;Serie A;2012_2013
+Inter;Siena;0--2;4;Serie A;2012_2013
+Udinese;AC Milan;2--1;4;Serie A;2012_2013
+Sampdoria;Torino;1--1;4;Serie A;2012_2013
+Juventus;Chievo;2--0;4;Serie A;2012_2013
+Parma;Fiorentina;1--1;4;Serie A;2012_2013
+Torino;Inter;0--2;3;Serie A;2012_2013
+AS Rome;Bologne;2--3;3;Serie A;2012_2013
+Fiorentina;Catania;2--0;3;Serie A;2012_2013
+Genoa;Juventus;1--3;3;Serie A;2012_2013
+Naples;Parma;3--1;3;Serie A;2012_2013
+Pescara;Sampdoria;2--3;3;Serie A;2012_2013
+Siena;Udinese;2--2;3;Serie A;2012_2013
+Chievo;Lazio;1--3;3;Serie A;2012_2013
+AC Milan;Atalanta;0--1;3;Serie A;2012_2013
+Palerme;Cagliari;1--1;3;Serie A;2012_2013
+Cagliari;Atalanta;1--1;2;Serie A;2012_2013
+Catania;Genoa;3--2;2;Serie A;2012_2013
+Inter;AS Rome;1--3;2;Serie A;2012_2013
+Lazio;Palerme;3--0;2;Serie A;2012_2013
+Naples;Fiorentina;2--1;2;Serie A;2012_2013
+Parma;Chievo;2--0;2;Serie A;2012_2013
+Sampdoria;Siena;2--1;2;Serie A;2012_2013
+Udinese;Juventus;1--4;2;Serie A;2012_2013
+Bologne;AC Milan;1--3;2;Serie A;2012_2013
+Torino;Pescara;3--0;2;Serie A;2012_2013
+AS Rome;Catania;2--2;1;Serie A;2012_2013
+Atalanta;Lazio;0--1;1;Serie A;2012_2013
+Chievo;Bologne;2--0;1;Serie A;2012_2013
+Genoa;Cagliari;2--0;1;Serie A;2012_2013
+Palerme;Naples;0--3;1;Serie A;2012_2013
+Pescara;Inter;0--3;1;Serie A;2012_2013
+Siena;Torino;0--0;1;Serie A;2012_2013
+AC Milan;Sampdoria;0--1;1;Serie A;2012_2013
+Juventus;Parma;2--0;1;Serie A;2012_2013
+Fiorentina;Udinese;2--1;1;Serie A;2012_2013

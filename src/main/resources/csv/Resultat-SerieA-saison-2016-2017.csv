@@ -1,0 +1,380 @@
+AS Rome;Genoa;;38;Serie A;2016_2017
+Atalanta;Chievo;;38;Serie A;2016_2017
+Bologne;Juventus;;38;Serie A;2016_2017
+Cagliari;AC Milan;;38;Serie A;2016_2017
+Crotone;Lazio;;38;Serie A;2016_2017
+Fiorentina;Pescara;;38;Serie A;2016_2017
+Inter;Udinese;;38;Serie A;2016_2017
+Palerme;Empoli;;38;Serie A;2016_2017
+Sampdoria;Naples;;38;Serie A;2016_2017
+Torino;Sassuolo;;38;Serie A;2016_2017
+AC Milan;Bologne;;37;Serie A;2016_2017
+Chievo;AS Rome;;37;Serie A;2016_2017
+Empoli;Atalanta;;37;Serie A;2016_2017
+Genoa;Torino;;37;Serie A;2016_2017
+Juventus;Crotone;;37;Serie A;2016_2017
+Lazio;Inter;;37;Serie A;2016_2017
+Naples;Fiorentina;;37;Serie A;2016_2017
+Pescara;Palerme;;37;Serie A;2016_2017
+Sassuolo;Cagliari;;37;Serie A;2016_2017
+Udinese;Sampdoria;;37;Serie A;2016_2017
+Fiorentina;Lazio;;36;Serie A;2016_2017
+Atalanta;AC Milan;;36;Serie A;2016_2017
+Inter;Sassuolo;;36;Serie A;2016_2017
+Bologne;Pescara;;36;Serie A;2016_2017
+Cagliari;Empoli;;36;Serie A;2016_2017
+Crotone;Udinese;;36;Serie A;2016_2017
+Palerme;Genoa;;36;Serie A;2016_2017
+Sampdoria;Chievo;;36;Serie A;2016_2017
+Torino;Naples;;36;Serie A;2016_2017
+AS Rome;Juventus;;36;Serie A;2016_2017
+Naples;Cagliari;;35;Serie A;2016_2017
+Juventus;Torino;;35;Serie A;2016_2017
+Udinese;Atalanta;;35;Serie A;2016_2017
+Chievo;Palerme;;35;Serie A;2016_2017
+Empoli;Bologne;;35;Serie A;2016_2017
+Genoa;Inter;;35;Serie A;2016_2017
+Lazio;Sampdoria;;35;Serie A;2016_2017
+Pescara;Crotone;;35;Serie A;2016_2017
+Sassuolo;Fiorentina;;35;Serie A;2016_2017
+AC Milan;AS Rome;;35;Serie A;2016_2017
+Inter;Naples;0--1;34;Serie A;2016_2017
+Bologne;Udinese;4--0;34;Serie A;2016_2017
+Cagliari;Pescara;1--0;34;Serie A;2016_2017
+Crotone;AC Milan;1--1;34;Serie A;2016_2017
+Empoli;Sassuolo;1--3;34;Serie A;2016_2017
+Genoa;Chievo;1--2;34;Serie A;2016_2017
+Palerme;Fiorentina;2--0;34;Serie A;2016_2017
+AS Rome;Lazio;1--3;34;Serie A;2016_2017
+Torino;Sampdoria;1--1;34;Serie A;2016_2017
+Atalanta;Juventus;2--2;34;Serie A;2016_2017
+Pescara;AS Rome;1--4;33;Serie A;2016_2017
+Juventus;Genoa;4--0;33;Serie A;2016_2017
+AC Milan;Empoli;1--2;33;Serie A;2016_2017
+Chievo;Torino;1--3;33;Serie A;2016_2017
+Lazio;Palerme;6--2;33;Serie A;2016_2017
+Sampdoria;Crotone;1--2;33;Serie A;2016_2017
+Udinese;Cagliari;2--1;33;Serie A;2016_2017
+Sassuolo;Naples;2--2;33;Serie A;2016_2017
+Fiorentina;Inter;5--4;33;Serie A;2016_2017
+Atalanta;Bologne;3--2;33;Serie A;2016_2017
+Naples;Udinese;3--0;32;Serie A;2016_2017
+Sassuolo;Sampdoria;2--1;32;Serie A;2016_2017
+AS Rome;Atalanta;1--1;32;Serie A;2016_2017
+Cagliari;Chievo;4--0;32;Serie A;2016_2017
+Fiorentina;Empoli;1--2;32;Serie A;2016_2017
+Genoa;Lazio;2--2;32;Serie A;2016_2017
+Palerme;Bologne;0--0;32;Serie A;2016_2017
+Pescara;Juventus;0--2;32;Serie A;2016_2017
+Torino;Crotone;1--1;32;Serie A;2016_2017
+Inter;AC Milan;2--2;32;Serie A;2016_2017
+Lazio;Naples;0--3;31;Serie A;2016_2017
+AC Milan;Palerme;4--0;31;Serie A;2016_2017
+Bologne;AS Rome;0--3;31;Serie A;2016_2017
+Cagliari;Torino;2--3;31;Serie A;2016_2017
+Crotone;Inter;2--1;31;Serie A;2016_2017
+Udinese;Genoa;3--0;31;Serie A;2016_2017
+Sampdoria;Fiorentina;2--2;31;Serie A;2016_2017
+Juventus;Chievo;2--0;31;Serie A;2016_2017
+Atalanta;Sassuolo;1--1;31;Serie A;2016_2017
+Empoli;Pescara;1--1;31;Serie A;2016_2017
+Inter;Sampdoria;1--2;30;Serie A;2016_2017
+Naples;Juventus;1--1;30;Serie A;2016_2017
+Chievo;Crotone;1--2;30;Serie A;2016_2017
+Fiorentina;Bologne;1--0;30;Serie A;2016_2017
+Genoa;Atalanta;0--5;30;Serie A;2016_2017
+Palerme;Cagliari;1--3;30;Serie A;2016_2017
+Pescara;AC Milan;1--1;30;Serie A;2016_2017
+Torino;Udinese;2--2;30;Serie A;2016_2017
+AS Rome;Empoli;2--0;30;Serie A;2016_2017
+Sassuolo;Lazio;1--2;30;Serie A;2016_2017
+AS Rome;Sassuolo;3--1;29;Serie A;2016_2017
+Udinese;Palerme;4--1;29;Serie A;2016_2017
+Atalanta;Pescara;3--0;29;Serie A;2016_2017
+Bologne;Chievo;4--1;29;Serie A;2016_2017
+Cagliari;Lazio;0--0;29;Serie A;2016_2017
+Crotone;Fiorentina;0--1;29;Serie A;2016_2017
+Sampdoria;Juventus;0--1;29;Serie A;2016_2017
+Empoli;Naples;2--3;29;Serie A;2016_2017
+AC Milan;Genoa;1--0;29;Serie A;2016_2017
+Torino;Inter;2--2;29;Serie A;2016_2017
+Lazio;Torino;3--1;28;Serie A;2016_2017
+Palerme;AS Rome;0--3;28;Serie A;2016_2017
+Chievo;Empoli;4--0;28;Serie A;2016_2017
+Fiorentina;Cagliari;1--0;28;Serie A;2016_2017
+Inter;Atalanta;7--1;28;Serie A;2016_2017
+Naples;Crotone;3--0;28;Serie A;2016_2017
+Pescara;Udinese;1--3;28;Serie A;2016_2017
+Sassuolo;Bologne;0--1;28;Serie A;2016_2017
+Genoa;Sampdoria;0--1;28;Serie A;2016_2017
+Juventus;AC Milan;2--1;28;Serie A;2016_2017
+Bologne;Lazio;0--2;27;Serie A;2016_2017
+Cagliari;Inter;1--5;27;Serie A;2016_2017
+Crotone;Sassuolo;0--0;27;Serie A;2016_2017
+Empoli;Genoa;0--2;27;Serie A;2016_2017
+Torino;Palerme;3--1;27;Serie A;2016_2017
+Udinese;Juventus;1--1;27;Serie A;2016_2017
+Atalanta;Fiorentina;0--0;27;Serie A;2016_2017
+AC Milan;Chievo;3--1;27;Serie A;2016_2017
+Sampdoria;Pescara;3--1;27;Serie A;2016_2017
+AS Rome;Naples;1--2;27;Serie A;2016_2017
+Fiorentina;Torino;2--2;26;Serie A;2016_2017
+Inter;AS Rome;1--3;26;Serie A;2016_2017
+Chievo;Pescara;2--0;26;Serie A;2016_2017
+Crotone;Cagliari;1--2;26;Serie A;2016_2017
+Genoa;Bologne;1--1;26;Serie A;2016_2017
+Lazio;Udinese;1--0;26;Serie A;2016_2017
+Sassuolo;AC Milan;0--1;26;Serie A;2016_2017
+Palerme;Sampdoria;1--1;26;Serie A;2016_2017
+Juventus;Empoli;2--0;26;Serie A;2016_2017
+Naples;Atalanta;0--2;26;Serie A;2016_2017
+AC Milan;Fiorentina;2--1;25;Serie A;2016_2017
+AS Rome;Torino;4--1;25;Serie A;2016_2017
+Chievo;Naples;1--3;25;Serie A;2016_2017
+Pescara;Genoa;5--0;25;Serie A;2016_2017
+Sampdoria;Cagliari;1--1;25;Serie A;2016_2017
+Udinese;Sassuolo;1--2;25;Serie A;2016_2017
+Bologne;Inter;0--1;25;Serie A;2016_2017
+Empoli;Lazio;1--2;25;Serie A;2016_2017
+Atalanta;Crotone;1--0;25;Serie A;2016_2017
+Juventus;Palerme;4--1;25;Serie A;2016_2017
+Lazio;AC Milan;1--1;24;Serie A;2016_2017
+Cagliari;Juventus;0--2;24;Serie A;2016_2017
+Sampdoria;Bologne;3--1;24;Serie A;2016_2017
+Inter;Empoli;2--0;24;Serie A;2016_2017
+Palerme;Atalanta;1--3;24;Serie A;2016_2017
+Sassuolo;Chievo;1--3;24;Serie A;2016_2017
+Torino;Pescara;5--3;24;Serie A;2016_2017
+Crotone;AS Rome;0--2;24;Serie A;2016_2017
+Fiorentina;Udinese;3--0;24;Serie A;2016_2017
+Naples;Genoa;2--0;24;Serie A;2016_2017
+AS Rome;Fiorentina;4--0;23;Serie A;2016_2017
+Juventus;Inter;1--0;23;Serie A;2016_2017
+Palerme;Crotone;1--0;23;Serie A;2016_2017
+Atalanta;Cagliari;2--0;23;Serie A;2016_2017
+Chievo;Udinese;0--0;23;Serie A;2016_2017
+Empoli;Torino;1--1;23;Serie A;2016_2017
+Genoa;Sassuolo;0--1;23;Serie A;2016_2017
+Pescara;Lazio;2--6;23;Serie A;2016_2017
+AC Milan;Sampdoria;0--1;23;Serie A;2016_2017
+Bologne;Naples;1--7;23;Serie A;2016_2017
+Naples;Palerme;1--1;22;Serie A;2016_2017
+Cagliari;Bologne;1--1;22;Serie A;2016_2017
+Crotone;Empoli;4--1;22;Serie A;2016_2017
+Fiorentina;Genoa;3--3;22;Serie A;2016_2017
+Sampdoria;AS Rome;3--2;22;Serie A;2016_2017
+Sassuolo;Juventus;0--2;22;Serie A;2016_2017
+Udinese;AC Milan;2--1;22;Serie A;2016_2017
+Torino;Atalanta;1--1;22;Serie A;2016_2017
+Inter;Pescara;3--0;22;Serie A;2016_2017
+Lazio;Chievo;0--1;22;Serie A;2016_2017
+AS Rome;Cagliari;1--0;21;Serie A;2016_2017
+Atalanta;Sampdoria;1--0;21;Serie A;2016_2017
+Bologne;Torino;2--0;21;Serie A;2016_2017
+Empoli;Udinese;1--0;21;Serie A;2016_2017
+Genoa;Crotone;2--2;21;Serie A;2016_2017
+Palerme;Inter;0--1;21;Serie A;2016_2017
+Pescara;Sassuolo;1--3;21;Serie A;2016_2017
+Juventus;Lazio;2--0;21;Serie A;2016_2017
+AC Milan;Naples;1--2;21;Serie A;2016_2017
+Chievo;Fiorentina;0--3;21;Serie A;2016_2017
+Torino;AC Milan;2--2;20;Serie A;2016_2017
+Fiorentina;Juventus;2--1;20;Serie A;2016_2017
+Lazio;Atalanta;2--1;20;Serie A;2016_2017
+Naples;Pescara;3--1;20;Serie A;2016_2017
+Sampdoria;Empoli;0--0;20;Serie A;2016_2017
+Sassuolo;Palerme;4--1;20;Serie A;2016_2017
+Udinese;AS Rome;0--1;20;Serie A;2016_2017
+Cagliari;Genoa;4--1;20;Serie A;2016_2017
+Inter;Chievo;3--1;20;Serie A;2016_2017
+Crotone;Bologne;0--1;20;Serie A;2016_2017
+Juventus;Bologne;3--0;19;Serie A;2016_2017
+AC Milan;Cagliari;1--0;19;Serie A;2016_2017
+Pescara;Fiorentina;1--2;19;Serie A;2016_2017
+Chievo;Atalanta;1--4;19;Serie A;2016_2017
+Genoa;AS Rome;0--1;19;Serie A;2016_2017
+Lazio;Crotone;1--0;19;Serie A;2016_2017
+Sassuolo;Torino;0--0;19;Serie A;2016_2017
+Udinese;Inter;1--2;19;Serie A;2016_2017
+Naples;Sampdoria;2--1;19;Serie A;2016_2017
+Empoli;Palerme;1--0;19;Serie A;2016_2017
+AS Rome;Chievo;3--1;18;Serie A;2016_2017
+Cagliari;Sassuolo;4--3;18;Serie A;2016_2017
+Fiorentina;Naples;3--3;18;Serie A;2016_2017
+Bologne;AC Milan;0--1;18;Serie A;2016_2017
+Crotone;Juventus;0--2;18;Serie A;2016_2017
+Palerme;Pescara;1--1;18;Serie A;2016_2017
+Sampdoria;Udinese;0--0;18;Serie A;2016_2017
+Torino;Genoa;1--0;18;Serie A;2016_2017
+Inter;Lazio;3--0;18;Serie A;2016_2017
+Atalanta;Empoli;2--1;18;Serie A;2016_2017
+Genoa;Palerme;3--4;17;Serie A;2016_2017
+Lazio;Fiorentina;3--1;17;Serie A;2016_2017
+Chievo;Sampdoria;2--1;17;Serie A;2016_2017
+Naples;Torino;5--3;17;Serie A;2016_2017
+Pescara;Bologne;0--3;17;Serie A;2016_2017
+Udinese;Crotone;2--0;17;Serie A;2016_2017
+Sassuolo;Inter;0--1;17;Serie A;2016_2017
+Juventus;AS Rome;1--0;17;Serie A;2016_2017
+AC Milan;Atalanta;0--0;17;Serie A;2016_2017
+Empoli;Cagliari;2--0;17;Serie A;2016_2017
+AS Rome;AC Milan;1--0;16;Serie A;2016_2017
+Fiorentina;Sassuolo;2--1;16;Serie A;2016_2017
+Inter;Genoa;2--0;16;Serie A;2016_2017
+Atalanta;Udinese;1--3;16;Serie A;2016_2017
+Bologne;Empoli;0--0;16;Serie A;2016_2017
+Palerme;Chievo;0--2;16;Serie A;2016_2017
+Torino;Juventus;1--3;16;Serie A;2016_2017
+Cagliari;Naples;0--5;16;Serie A;2016_2017
+Sampdoria;Lazio;1--2;16;Serie A;2016_2017
+Crotone;Pescara;2--1;16;Serie A;2016_2017
+Udinese;Bologne;1--0;15;Serie A;2016_2017
+Chievo;Genoa;0--0;15;Serie A;2016_2017
+Fiorentina;Palerme;2--1;15;Serie A;2016_2017
+Lazio;AS Rome;0--2;15;Serie A;2016_2017
+Pescara;Cagliari;1--1;15;Serie A;2016_2017
+Sampdoria;Torino;2--0;15;Serie A;2016_2017
+Sassuolo;Empoli;3--0;15;Serie A;2016_2017
+AC Milan;Crotone;2--1;15;Serie A;2016_2017
+Juventus;Atalanta;3--1;15;Serie A;2016_2017
+Naples;Inter;3--0;15;Serie A;2016_2017
+Inter;Fiorentina;4--2;14;Serie A;2016_2017
+Naples;Sassuolo;1--1;14;Serie A;2016_2017
+AS Rome;Pescara;3--2;14;Serie A;2016_2017
+Bologne;Atalanta;0--2;14;Serie A;2016_2017
+Cagliari;Udinese;2--1;14;Serie A;2016_2017
+Crotone;Sampdoria;1--1;14;Serie A;2016_2017
+Genoa;Juventus;3--1;14;Serie A;2016_2017
+Palerme;Lazio;0--1;14;Serie A;2016_2017
+Empoli;AC Milan;1--4;14;Serie A;2016_2017
+Torino;Chievo;2--1;14;Serie A;2016_2017
+AC Milan;Inter;2--2;13;Serie A;2016_2017
+Atalanta;AS Rome;2--1;13;Serie A;2016_2017
+Bologne;Palerme;3--1;13;Serie A;2016_2017
+Crotone;Torino;0--2;13;Serie A;2016_2017
+Empoli;Fiorentina;0--4;13;Serie A;2016_2017
+Lazio;Genoa;3--1;13;Serie A;2016_2017
+Sampdoria;Sassuolo;3--2;13;Serie A;2016_2017
+Juventus;Pescara;3--0;13;Serie A;2016_2017
+Udinese;Naples;1--2;13;Serie A;2016_2017
+Chievo;Cagliari;1--0;13;Serie A;2016_2017
+AS Rome;Bologne;3--0;12;Serie A;2016_2017
+Fiorentina;Sampdoria;1--1;12;Serie A;2016_2017
+Inter;Crotone;3--0;12;Serie A;2016_2017
+Chievo;Juventus;1--2;12;Serie A;2016_2017
+Genoa;Udinese;1--1;12;Serie A;2016_2017
+Palerme;AC Milan;1--2;12;Serie A;2016_2017
+Sassuolo;Atalanta;0--3;12;Serie A;2016_2017
+Pescara;Empoli;0--4;12;Serie A;2016_2017
+Naples;Lazio;1--1;12;Serie A;2016_2017
+Torino;Cagliari;5--1;12;Serie A;2016_2017
+Cagliari;Palerme;2--1;11;Serie A;2016_2017
+Udinese;Torino;2--2;11;Serie A;2016_2017
+Sampdoria;Inter;1--0;11;Serie A;2016_2017
+AC Milan;Pescara;1--0;11;Serie A;2016_2017
+Crotone;Chievo;2--0;11;Serie A;2016_2017
+Empoli;AS Rome;0--0;11;Serie A;2016_2017
+Lazio;Sassuolo;2--1;11;Serie A;2016_2017
+Atalanta;Genoa;3--0;11;Serie A;2016_2017
+Juventus;Naples;2--1;11;Serie A;2016_2017
+Bologne;Fiorentina;0--1;11;Serie A;2016_2017
+Palerme;Udinese;1--3;10;Serie A;2016_2017
+Chievo;Bologne;1--1;10;Serie A;2016_2017
+Fiorentina;Crotone;1--1;10;Serie A;2016_2017
+Inter;Torino;2--1;10;Serie A;2016_2017
+Juventus;Sampdoria;4--1;10;Serie A;2016_2017
+Lazio;Cagliari;4--1;10;Serie A;2016_2017
+Naples;Empoli;2--0;10;Serie A;2016_2017
+Pescara;Atalanta;0--1;10;Serie A;2016_2017
+Sassuolo;AS Rome;1--3;10;Serie A;2016_2017
+Genoa;AC Milan;3--0;10;Serie A;2016_2017
+AS Rome;Palerme;4--1;9;Serie A;2016_2017
+Bologne;Sassuolo;1--1;9;Serie A;2016_2017
+Atalanta;Inter;2--1;9;Serie A;2016_2017
+Cagliari;Fiorentina;3--5;9;Serie A;2016_2017
+Crotone;Naples;1--2;9;Serie A;2016_2017
+Empoli;Chievo;0--0;9;Serie A;2016_2017
+Torino;Lazio;2--2;9;Serie A;2016_2017
+Udinese;Pescara;3--1;9;Serie A;2016_2017
+AC Milan;Juventus;1--0;9;Serie A;2016_2017
+Sampdoria;Genoa;2--1;9;Serie A;2016_2017
+Palerme;Torino;1--4;8;Serie A;2016_2017
+Chievo;AC Milan;1--3;8;Serie A;2016_2017
+Genoa;Empoli;0--0;8;Serie A;2016_2017
+Inter;Cagliari;1--2;8;Serie A;2016_2017
+Lazio;Bologne;1--1;8;Serie A;2016_2017
+Sassuolo;Crotone;2--1;8;Serie A;2016_2017
+Fiorentina;Atalanta;0--0;8;Serie A;2016_2017
+Juventus;Udinese;2--1;8;Serie A;2016_2017
+Pescara;Sampdoria;1--1;8;Serie A;2016_2017
+Naples;AS Rome;1--3;8;Serie A;2016_2017
+AS Rome;Inter;2--1;7;Serie A;2016_2017
+AC Milan;Sassuolo;4--3;7;Serie A;2016_2017
+Torino;Fiorentina;2--1;7;Serie A;2016_2017
+Atalanta;Naples;1--0;7;Serie A;2016_2017
+Bologne;Genoa;0--1;7;Serie A;2016_2017
+Cagliari;Crotone;2--1;7;Serie A;2016_2017
+Sampdoria;Palerme;1--1;7;Serie A;2016_2017
+Empoli;Juventus;0--3;7;Serie A;2016_2017
+Udinese;Lazio;0--3;7;Serie A;2016_2017
+Pescara;Chievo;0--2;7;Serie A;2016_2017
+Cagliari;Sampdoria;2--1;6;Serie A;2016_2017
+Crotone;Atalanta;1--3;6;Serie A;2016_2017
+Fiorentina;AC Milan;0--0;6;Serie A;2016_2017
+Genoa;Pescara;1--1;6;Serie A;2016_2017
+Inter;Bologne;1--1;6;Serie A;2016_2017
+Lazio;Empoli;2--0;6;Serie A;2016_2017
+Sassuolo;Udinese;1--0;6;Serie A;2016_2017
+Torino;AS Rome;3--1;6;Serie A;2016_2017
+Naples;Chievo;2--0;6;Serie A;2016_2017
+Palerme;Juventus;0--1;6;Serie A;2016_2017
+AS Rome;Crotone;4--0;5;Serie A;2016_2017
+Atalanta;Palerme;0--1;5;Serie A;2016_2017
+Chievo;Sassuolo;2--1;5;Serie A;2016_2017
+Empoli;Inter;0--2;5;Serie A;2016_2017
+Genoa;Naples;0--0;5;Serie A;2016_2017
+Juventus;Cagliari;4--0;5;Serie A;2016_2017
+Pescara;Torino;0--0;5;Serie A;2016_2017
+Udinese;Fiorentina;2--2;5;Serie A;2016_2017
+Bologne;Sampdoria;2--0;5;Serie A;2016_2017
+AC Milan;Lazio;2--0;5;Serie A;2016_2017
+Fiorentina;AS Rome;1--0;4;Serie A;2016_2017
+Inter;Juventus;2--1;4;Serie A;2016_2017
+Cagliari;Atalanta;3--0;4;Serie A;2016_2017
+Crotone;Palerme;1--1;4;Serie A;2016_2017
+Sassuolo;Genoa;2--0;4;Serie A;2016_2017
+Torino;Empoli;0--0;4;Serie A;2016_2017
+Udinese;Chievo;1--2;4;Serie A;2016_2017
+Naples;Bologne;3--1;4;Serie A;2016_2017
+Lazio;Pescara;3--0;4;Serie A;2016_2017
+Sampdoria;AC Milan;0--1;4;Serie A;2016_2017
+Empoli;Crotone;2--1;3;Serie A;2016_2017
+Pescara;Inter;1--2;3;Serie A;2016_2017
+AC Milan;Udinese;0--1;3;Serie A;2016_2017
+AS Rome;Sampdoria;3--2;3;Serie A;2016_2017
+Atalanta;Torino;2--1;3;Serie A;2016_2017
+Genoa;Fiorentina;1--0;3;Serie A;2016_2017
+Chievo;Lazio;1--1;3;Serie A;2016_2017
+Bologne;Cagliari;2--1;3;Serie A;2016_2017
+Palerme;Naples;0--3;3;Serie A;2016_2017
+Juventus;Sassuolo;3--1;3;Serie A;2016_2017
+Cagliari;AS Rome;2--2;2;Serie A;2016_2017
+Crotone;Genoa;1--3;2;Serie A;2016_2017
+Fiorentina;Chievo;1--0;2;Serie A;2016_2017
+Sampdoria;Atalanta;2--1;2;Serie A;2016_2017
+Sassuolo;Pescara;0--3;2;Serie A;2016_2017
+Torino;Bologne;5--1;2;Serie A;2016_2017
+Udinese;Empoli;2--0;2;Serie A;2016_2017
+Inter;Palerme;1--1;2;Serie A;2016_2017
+Naples;AC Milan;4--2;2;Serie A;2016_2017
+Lazio;Juventus;0--1;2;Serie A;2016_2017
+Atalanta;Lazio;3--4;1;Serie A;2016_2017
+Bologne;Crotone;1--0;1;Serie A;2016_2017
+Chievo;Inter;2--0;1;Serie A;2016_2017
+Empoli;Sampdoria;0--1;1;Serie A;2016_2017
+Genoa;Cagliari;3--1;1;Serie A;2016_2017
+Palerme;Sassuolo;0--1;1;Serie A;2016_2017
+Pescara;Naples;2--2;1;Serie A;2016_2017
+AC Milan;Torino;3--2;1;Serie A;2016_2017
+Juventus;Fiorentina;2--1;1;Serie A;2016_2017
+AS Rome;Udinese;4--0;1;Serie A;2016_2017
