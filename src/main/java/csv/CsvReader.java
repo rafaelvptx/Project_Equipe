@@ -17,9 +17,10 @@ public class CsvReader {
 
 
 	/**
-	 * Cette fonction ouvre le fichier "test.csv" contenant tout les matchs,
+	 * Cette fonction ouvre tous les fichiers du repertoire "src/main/resources/csv/"  contenant l'ensemble des matchs,
 	 * puis creer chaque match avec les caractéristiques donnees(NomEquipeHome, NomEquipeAway,
 	 * ScoreMatch, ligue, saison) pour chaque ligne remplie.
+	 * Chaque fichiers represente une ligue et une saison disctincte
 	 * 
 	 * @return liste de matchs
 	 * @throws FileNotFoundException
@@ -29,9 +30,9 @@ public class CsvReader {
 
 		List<Match> listMatchsByLigue = new ArrayList<>();
 
-		File[] listF = RESSOURCES.listFiles();
+		File[] listFiles = RESSOURCES.listFiles();
 
-		for (File f : listF){
+		for (File f : listFiles){
 
 			try (CSVReader reader = new CSVReader(new FileReader(f), '|')) {
 				List<String[]> rows = reader.readAll();

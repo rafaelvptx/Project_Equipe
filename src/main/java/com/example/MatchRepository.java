@@ -16,6 +16,7 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
     Collection<Match> findByEquipeAway(String nom);
     Collection<Match> findByEquipeAwayOrNomEquipeHome(String nom, String nomAway);
     Collection<Match> findByNomEquipeHomeAndEquipeAwayAndJournee(String nom, String nomAway, int journee);
+    Collection<Match> findByLigueAndSaisonAndJournee(String ligue, String saison, int journee);
 
     /*
      * Utilisation de l'annotation @Query afin de créer des requetes de la base SQL un peu plus complexes
@@ -54,7 +55,6 @@ public interface MatchRepository extends JpaRepository<Match, Long> {
     		"where m.ligue = ?1 and m.saison = ?2 ORDER BY m.nomEquipeHome")
     Collection<Object> findEquipeHomeByLeagueAndSeason(String league, String saison);
     
-    Collection<Match> findByLigueAndSaisonAndJournee(String ligue, String saison, int journee);
     
     @Query("select m from Match m " +
             "WHERE (( m.ligue = ?1 and m.saison = ?2 and m.nomEquipeHome = ?3 ) "

@@ -52,7 +52,8 @@ public class ProjectApplication {
 
 
 	/**
-	 * 
+	 * Fonction déroulant les différentes étapes de l'algorithme de prédiction et associe des
+	 * pourcentages de victoire probable à chaque équipe pour un match donne
 	 * @param m
 	 * @param matchRepository
 	 */

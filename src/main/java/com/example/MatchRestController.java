@@ -80,7 +80,12 @@ class MatchRestController {
 		});
 		return days;
 	}
-	
+	/**
+	 * 
+	 * @param league
+	 * @param season
+	 * @return liste des equipes pour une ligue et une saison donnee
+	 */
 	@RequestMapping(method = RequestMethod.GET, value ="/{league}/{season}/equipes")
 	List<Team> readTeamsByLeagueAndSeason(@PathVariable String league,@PathVariable String season){
 		List<Team> teams = new ArrayList<>();
@@ -115,6 +120,13 @@ class MatchRestController {
 		return resultats;
 	}
 	
+	/**
+	 * 
+	 * @param league
+	 * @param season
+	 * @param equipe
+	 * @return tous les matchs de la saison pour une equipe donnee
+	 */
 	@RequestMapping(method = RequestMethod.GET, value = "/{league}/{season}/{equipe}/matchsTeam")
 	List<Resultat> readMatchsByEquipes(@PathVariable String league, @PathVariable String season,@PathVariable String equipe) {
 		List<Resultat> resultats = new ArrayList<>();
